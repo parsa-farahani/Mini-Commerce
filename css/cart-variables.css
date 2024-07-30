@@ -1,0 +1,26 @@
+:root {
+   --user-account-bg: transparent;
+   --user-account-bg-hover: rgba(0, 0, 0, 0.05);
+   --cart-products-table-bg: linear-gradient(60deg, rgba(87, 69, 255, 0.7), rgba(103, 186, 255, 0.7));
+   --cart-product-bg-hover: rgba(0, 0, 0, 0.12);
+   --cart-product-model-txt: rgba(0, 0, 0, 0.6);
+   --cart-product-quantity-btns-bg: rgba(0, 0, 0, 0.07);
+   --cart-product-quantity-btns-bg-hover: rgba(0, 0, 0, 0.18);
+   --cart-product-quantity-icons-color: rgb(46, 23, 255);
+   --cart-product-quantity-remove-border: 1px solid rgb(255, 31, 31);
+   --cart-product-quantity-remove-txt: rgb(190, 28, 28);
+}
+
+.darktheme {
+   --user-account-bg: transparent;
+   --user-account-bg-hover: rgba(255,255,255, .05);
+   --cart-products-table-bg: linear-gradient(60deg, rgba(87, 69, 255, 0.336), rgba(103, 186, 255, 0.418));
+   --cart-product-bg-hover: rgba(255, 255, 255, 0.07);
+   --cart-product-model-txt: rgba(255, 255, 255, 0.6);
+   --cart-product-quantity-btns-bg: rgba(255, 255, 255, 0.07);
+   --cart-product-quantity-btns-bg-hover: rgba(255, 255, 255, 0.12);
+   --cart-product-quantity-icons-color: rgb(255, 217, 0);
+   --cart-product-quantity-remove-border: 1px solid rgb(255, 81, 81);
+   --cart-product-quantity-remove-txt: rgb(255, 81, 81);
+   
+}

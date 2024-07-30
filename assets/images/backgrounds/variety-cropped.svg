@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" id="svg1" viewBox="14.43 65.23 174.9 157.22">
+  <defs id="defs1">
+    <filter style="color-interpolation-filters:sRGB" id="filter4" x="-0.34615627" y="-0.29492778" width="1.6923125" height="1.5898556">
+      <feGaussianBlur stdDeviation="5.5731265" id="feGaussianBlur4"/>
+    </filter>
+  </defs>
+  <g id="layer1">
+    <rect style="fill:#8c94ff;fill-opacity:1;stroke:#faff26;stroke-width:0;stroke-dasharray:none;paint-order:fill markers stroke" id="rect1" width="78.882507" height="102.16889" x="110.45395" y="120.28192" ry="4.0722528"/>
+    <rect style="fill:#8c94ff;fill-opacity:1;stroke:#faff26;stroke-width:0;stroke-dasharray:none;paint-order:fill markers stroke" id="rect2" width="15.793493" height="21.381935" x="48.850883" y="185.16318" ry="0.85224223"/>
+    <rect style="fill:#3c3c3c;fill-opacity:0.648168;stroke:#faff26;stroke-width:0;stroke-dasharray:none;paint-order:fill markers stroke;filter:url(#filter4)" id="rect4" width="38.640072" height="45.351791" x="96.673393" y="116.07023" ry="1.807634" transform="matrix(0.90813008,0,0,0.93332922,9.9301159,6.8467373)"/>
+    <rect style="fill:#85bcff;fill-opacity:1;stroke:#faff26;stroke-width:0;stroke-dasharray:none;paint-order:fill markers stroke" id="rect3" width="38.640072" height="45.351791" x="92.172836" y="107.94663" ry="1.807634"/>
+    <rect style="fill:#85bcff;fill-opacity:1;stroke:#faff26;stroke-width:0;stroke-dasharray:none;paint-order:fill markers stroke" id="rect5" width="20.094057" height="26.584055" x="70.246017" y="161.11101" ry="1.0595886"/>
+    <rect style="fill:#8c94ff;fill-opacity:1;stroke:#faff26;stroke-width:0;stroke-dasharray:none;paint-order:fill markers stroke" id="rect6" width="25.738365" height="31.454849" x="37.904144" y="109.03753" ry="1.253729"/>
+    <rect style="fill:#85bcff;fill-opacity:1;stroke:#faff26;stroke-width:0;stroke-dasharray:none;paint-order:fill markers stroke" id="rect7" width="20.094057" height="26.584055" x="14.432161" y="134.26399" ry="1.0595886"/>
+    <rect style="fill:#8c94ff;fill-opacity:1;stroke:#faff26;stroke-width:0;stroke-dasharray:none;paint-order:fill markers stroke" id="rect8" width="22.192822" height="24.798096" x="32.169842" y="71.952286" ry="0.98840374"/>
+    <rect style="fill:#3c3c3c;fill-opacity:0.648168;stroke:#faff26;stroke-width:0;stroke-dasharray:none;paint-order:fill markers stroke;filter:url(#filter4)" id="rect9" width="38.640072" height="45.351791" x="96.673393" y="116.07023" ry="1.807634" transform="matrix(0.51300285,0,0,0.53499668,-25.574077,18.629073)"/>
+    <rect style="fill:#85bcff;fill-opacity:1;stroke:#faff26;stroke-width:0;stroke-dasharray:none;paint-order:fill markers stroke" id="rect10" width="20.094057" height="26.584055" x="21.815006" y="81.157852" ry="1.0595886"/>
+    <rect style="fill:#85bcff;fill-opacity:1;stroke:#faff26;stroke-width:0;stroke-dasharray:none;paint-order:fill markers stroke" id="rect11" width="12.416499" height="15.537467" x="72.354156" y="95.421074" ry="0.61929315"/>
+    <rect style="fill:#3c3c3c;fill-opacity:0.426176;stroke:#faff26;stroke-width:0;stroke-dasharray:none;paint-order:fill markers stroke;filter:url(#filter4)" id="rect13" width="38.640072" height="45.351791" x="96.673393" y="116.07023" ry="1.807634" transform="matrix(0.32436319,0,0,0.3953086,61.332276,54.052934)"/>
+    <rect style="fill:#8c94ff;fill-opacity:1;stroke:#faff26;stroke-width:0;stroke-dasharray:none;paint-order:fill markers stroke" id="rect12" width="12.235233" height="15.378798" x="91.119614" y="98.71138" ry="0.61296892"/>
+    <rect style="fill:#85bcff;fill-opacity:1;stroke:#faff26;stroke-width:0;stroke-dasharray:none;paint-order:fill markers stroke" id="rect14" width="16.863567" height="21.272146" x="131.19809" y="77.074051" ry="0.8478663"/>
+    <rect style="fill:#8c94ff;fill-opacity:1;stroke:#faff26;stroke-width:0;stroke-dasharray:none;paint-order:fill markers stroke" id="rect15" width="12.7439" height="15.2839" x="91.630692" y="65.227089" ry="0.60918647"/>
+  </g>
+</svg>

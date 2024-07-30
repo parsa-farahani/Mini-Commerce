@@ -1,0 +1,152 @@
+/*-------- utility classes -----------*/
+:where(.container) {
+    max-width: 1800px;
+    margin: 0 auto;
+    padding: 0 .75rem;
+ }
+ 
+ .bkg-purple {
+    background-color: var(--main-theme-purple);
+ }
+ 
+ .bkg-orange {
+    background-color: var(--orange-theme-color);
+ }
+ 
+ .txt-purple {
+    color: var(--main-theme-purple);
+ }
+ 
+ .txt-orange {
+    color: var(--orange-theme-color);
+ }
+ 
+ .txt-dark {
+    color: rgb(20, 20, 20) !important;
+ }
+ 
+ .centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ .left-auto {
+    margin-left: auto;
+ }
+ .right-auto {
+    margin-right: auto;
+ }
+ 
+ .hidden-heading {
+    position: absolute !important;
+    left: -99999px !important;
+ }
+ 
+ .op-0 {
+    opacity: 0%;
+ }
+ 
+ .op-25 {
+    opacity: 25%;
+ }
+ 
+ .op-50 {
+    opacity: 50%;
+ }
+ 
+ .op-75 {
+    opacity: 75%;
+ }
+ 
+ .op-100 {
+    opacity: 100%;
+ }
+ 
+ .scaleX-0 {
+    transform: scale(0);
+ }
+ 
+ .lined-title-cont {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+ }
+ 
+ .left-separator , .right-separator , .full-separator {
+    border: none;
+    height: 1px;
+    background-color: var(--main-theme-txt);
+    display: block;
+ }
+ 
+ .lined-title-cont .left-separator {
+    flex-grow: 1;
+    margin-right: 15px;
+ }
+ 
+ .lined-title-cont .right-separator {
+    flex-grow: 1;
+    margin-left: 1em;
+ }
+ 
+ .lined-title-cont .full-separator {
+    width: 100%;
+    flex-shrink: 0;
+ }
+ 
+ .full-separator {
+    width: 100%;
+ }
+ 
+ .grow-left {
+    transform-origin: right;
+    animation: grow 1s 1 forwards ease-out;
+ }
+ .grow-right {
+    transform-origin: left;
+    animation: grow 1s 1 forwards ease-out;
+ }
+ 
+ @keyframes grow {
+    0% {
+       transform: scaleX(0);
+    }
+    100% {
+       transform: scaleX(1);
+    }
+ }
+ .shrink-left {
+    transform-origin: left;
+    animation: shrink .3s 1 forwards ease-out;
+ }
+ .shrink-right {
+    transform-origin: right;
+    animation: shrink .3s 1 forwards ease-out;
+ }
+ 
+ @keyframes shrink {
+    0% {
+       transform: scaleX(1);
+    }
+    100% {
+       transform: scaleX(0);
+    }
+ }
+ 
+ .img-attr {
+    position: absolute;
+    bottom: 5px;
+    left: 15px;
+ 
+    opacity: .7;
+    color: white !important;
+    font-size: .9rem;
+    text-decoration: none !important;
+ }
+ .img-attr a {
+    color: white !important;
+    text-decoration: none !important;
+ }
+ /* End of -------  utility classes -----------*/

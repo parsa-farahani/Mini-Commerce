@@ -1,0 +1,12 @@
+{
+  "name": "mini-commerce",
+  "version": "1.0.0",
+  "description": "in this project, i did my best to develop an efficient and accessible e-commerce website, so I tried to optimize this website also for keyboard users, screenreader users, and I tried to observe Accessibility principles adding to all of other works about designing the UI and other functionalities (which will be improved in future)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

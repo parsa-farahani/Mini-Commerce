@@ -1,0 +1,16 @@
+.progress-ring {
+    width: 40px;
+    transform: rotateZ(-90deg);
+}
+
+.progress-ring__circle {
+    stroke: rgb(21, 233, 74); /* Color of the ring */
+    stroke-dasharray: calc(2 * 3.14 * 52); /* Circumference = 2πr */
+    stroke-dashoffset: calc(2 * 3.14 * 52); /* Initially hides the ring */
+    transition: stroke-dashoffset 0.5s ease; /* Smooth animation */
+}
+
+.progress-ring__circle {
+    /* ... other styles ... */
+    stroke-dashoffset: calc(2 * 3.14 * 52 * (1 - 0.85)); /* 85% progress */
+}

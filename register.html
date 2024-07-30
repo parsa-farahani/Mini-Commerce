@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr" >
+<head>
+   <meta name="robots" content="noindex, follow" >
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width , initial-scale=1.0" >
+   <meta name="author" content="Parsa Farahani" >
+   <meta name="description" content="Sign up to create an account on Mini-commerce and start shopping for high-quality products." >
+   <meta name="title" content="Mini-Commerce | Register">
+   <title>Mini-Commerce | Register</title>
+   <link
+   rel="apple-touch-icon"
+   sizes="114x114"
+   href="./minicommerce-logo-2-114.png"
+   type="image/x-icon"
+   >
+   <link
+   rel="apple-touch-icon"
+   href="./minicommerce-logo-2-32.png"
+   type="image/x-icon"
+   >
+   <link
+   rel="icon"
+   href="./minicommerce-logo-2-32.png"
+   type="image/x-icon"
+   >
+   <!-- Open Graph -->
+   <meta property="og:type" content="website" >
+   <meta property="og:site_name" content="Mini-commerce" >
+   <meta property="og:url" content="www.minicommerce.com/register.html" >
+   <meta property="og:title" content="Mini-Commerce | Register" >
+   <meta property="og:description" content="Sign up to create an account on Mini-commerce and start shopping for high-quality products." >
+   <meta property="og:image" content="./minicommerce-meta-poster-1280x720.png" >
+   <meta property="og:image:alt" content="minicommerce logo with a dark background" >
+   <!-- Twitter -->
+   <meta property="twitter:card" content="summary_large_image" >
+   <meta property="twitter:url" content="www.minicommerce.com/register.html" >
+   <meta property="twitter:title" content="Mini-Commerce | Register" >
+   <meta property="twitter:description" content="Sign up to create an account on Mini-commerce and start shopping for high-quality products." >
+   <meta property="twitter:image" content="./minicommerce-meta-poster-1280x720.png" >
+
+   <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet">
+   <link rel="stylesheet" href="./css/register.css">
+   <script src="./general.js" defer ></script>
+   <script src="./global-search-input.js" defer ></script>
+   <script src="./register.js" defer ></script>
+</head>
+<body>
+   <header data-const>
+      <div class="header-inner-wrapper container">
+         <div>
+            <!-- <button type="button" class="header-nav-collapse-btn" data-target="main-nav">
+               <svg class="header-nav-collapse-btn-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><rect width="18" height="2" x="3" y="11" fill="currentColor" rx=".95" ry=".95"/><rect width="18" height="2" x="3" y="16" fill="currentColor" rx=".95" ry=".95"/><rect width="18" height="2" x="3" y="6" fill="currentColor" rx=".95" ry=".95"/></svg>
+            </button> -->
+            <a href="/" class="main-nav-logo-link" aria-label="miniCommerce logo home" >
+               <img class="main-nav-logo-link-img" src="./assets/logos/mini-commerce-logo-2-cropped.svg" alt="">
+               <span class="main-nav-logo-link-text" >
+                  Mini<span class="main-nav-logo-link-text-commerce" >Commerce</span>
+               </span>
+            </a>
+         </div>
+         <form class="main-nav-search-cont-form" role="search" action="/products-search.html" target="_blank" method="get" autocomplete="off" >
+            <input
+            id="main-nav-search-cont-form-input"
+            class="main-nav-search-cont-form-input"
+            type="search"
+            name="search"
+            placeholder="Search Products..."
+            autocapitalize="off"
+            spellcheck="false"
+            aria-label="Search through website"
+            >
+            <div class="main-nav-search-cont-form-btns-cont">
+               <button
+               id="main-nav-search-cont-form-clear-btn"
+               class="main-nav-search-cont-form-btn main-nav-search-cont-form-clear-btn"
+               type="button"
+               tabindex="-1"
+               aria-label="clear">
+                  <i
+                  class="material-symbols-outlined main-nav-search-cont-form-btn-icon main-nav-search-cont-form-clear-btn-icon"
+                  role="img"
+                  aria-hidden="true" >
+                     close
+                  </i>
+               </button>
+               <button
+               id="main-nav-search-cont-form-go-btn"
+               class="main-nav-search-cont-form-btn main-nav-search-cont-form-go-btn"
+               type="submit"
+               aria-label="go">
+                  <i
+                  class="material-symbols-outlined main-nav-search-cont-form-btn-icon main-nav-search-cont-form-go-btn-icon"
+                  role="img"
+                  aria-hidden="true" >
+                     search
+                  </i>
+               </button>
+            </div>
+         </form>
+         <nav id="main-nav" class="main-nav" aria-label="main navigation">
+            <ul class="main-nav-navigation-list" >
+               <li class="main-nav-navigation-list-item" >
+                  <button type="button" id="main-nav-navigation-list-changetheme-btn" class="main-nav-navigation-list-btn main-nav-navigation-list-changetheme-btn centered" aria-label="light/dark theme">
+                     <svg class="main-nav-navigation-list-changetheme-btn-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M10 3.5a6.5 6.5 0 1 1 0 13zM10 2a8 8 0 1 0 0 16a8 8 0 0 0 0-16"/></svg>
+                  </button>
+               </li>
+               <li id="main-nav-navigation-list-categories-item" class="main-nav-navigation-list-item" >
+                  <button id="main-nav-navigation-list-categories-btn" class="main-nav-navigation-list-btn main-nav-navigation-list-categories-btn centered" type="button" aria-expanded="false" data-isexpanded="false">
+                     <svg class="main-nav-navigation-list-link-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M10 3H4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1M9 9H5V5h4zm11-6h-6a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1m-1 6h-4V5h4zm-9 4H4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-6a1 1 0 0 0-1-1m-1 6H5v-4h4zm8-6c-2.206 0-4 1.794-4 4s1.794 4 4 4s4-1.794 4-4s-1.794-4-4-4m0 6c-1.103 0-2-.897-2-2s.897-2 2-2s2 .897 2 2s-.897 2-2 2"/></svg>
+                     <span class="main-nav-navigation-list-link-text">
+                        Categories
+                     </span>
+                     <i class="material-symbols-outlined main-nav-navigation-list-categories-btn-icon" >expand_more</i>
+                  </button>
+                  <div aria-hidden="true" id="main-nav-navigation-list-categories-item-submenu-wrapper" class="main-nav-navigation-list-categories-item-submenu-wrapper" role="menu" >
+                     <div id="main-nav-navigation-list-categories-item-submenu" class="main-nav-navigation-list-categories-item-submenu">
+                        <button id="main-nav-navigation-list-categories-item-submenu-close-btn" class="main-nav-navigation-list-item-submenu-close-btn" type="button">
+                           &#x2715;
+                        </button>
+                        <ul class="main-nav-navigation-list-categories-item-submenu-list" >
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-title-item" >
+                              <a href="#" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 <h3 class="main-nav-navigation-list-categories-item-submenu-list-title" >
+                                    Clothes
+                                 </h3>
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Winter Clothes
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Winter Clothes
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Winter Clothes
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Winter Clothes
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Winter Clothes
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Winter Clothes
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Winter Clothes
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Winter Clothes
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Winter Clothes
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Winter Clothes
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Winter Clothes
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Summer Clothes
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Sport Clothes
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 women's dresses
+                              </a>
+                           </li>
+                        </ul>
+                        <ul class="main-nav-navigation-list-categories-item-submenu-list" >
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-title-item" >
+                              <a href="#" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 <h3 class="main-nav-navigation-list-categories-item-submenu-list-title" >
+                                    Electronic Devices
+                                 </h3>
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Phones
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Game Console
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Pc
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Headphones
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Mouse & Keyboard
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link">
+                                 Mouse & Keyboard
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link">
+                                 Mouse & Keyboard
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link">
+                                 Mouse & Keyboard
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link">
+                                 Mouse & Keyboard
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link">
+                                 Mouse & Keyboard
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link">
+                                 Mouse & Keyboard
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link">
+                                 Mouse & Keyboard
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link">
+                                 Mouse & Keyboard
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link">
+                                 Mouse & Keyboard
+                              </a>
+                           </li>
+                        </ul>
+                        <ul class="main-nav-navigation-list-categories-item-submenu-list" >
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-title-item" >
+                              <a href="#" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 <h3 class="main-nav-navigation-list-categories-item-submenu-list-title" >
+                                    Cosmetics
+                                 </h3>
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Creams & Serums
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Lipsticks & Mascaras
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Lotions & Deodorants
+                              </a>
+                           </li>
+                        </ul>
+                        <ul class="main-nav-navigation-list-categories-item-submenu-list" >
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-title-item" >
+                              <a href="#" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem" >
+                                 <h3 class="main-nav-navigation-list-categories-item-submenu-list-title" >
+                                    Sport
+                                 </h3>
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Sport Clothes
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Skates
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 swimming accessories
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Bodybuilding supplements
+                              </a>
+                           </li>
+                        </ul>
+                        <ul class="main-nav-navigation-list-categories-item-submenu-list" >
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-title-item" >
+                              <a href="#" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem" >
+                                 <h3 class="main-nav-navigation-list-categories-item-submenu-list-title" >
+                                    Food & Groceries
+                                 </h3>
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Ready Meals
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Vegetables
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Fruits
+                              </a>
+                           </li>
+                        </ul>
+                        <ul class="main-nav-navigation-list-categories-item-submenu-list" >
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-title-item" >
+                              <a href="#" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem" >
+                                 <h3 class="main-nav-navigation-list-categories-item-submenu-list-title" >
+                                    Art & Design
+                                 </h3>
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Papers & Canvases
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Brushes
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Colored Pencils & Colors
+                              </a>
+                           </li>
+                           <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                              <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                 Sculpting Supplies
+                              </a>
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+               </li>
+               <li class="main-nav-navigation-list-item" >
+                  <a class="main-nav-navigation-list-link centered" href="#">
+                     <svg class="main-nav-navigation-list-link-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M.508.5H2.95l.87 8.65a1 1 0 0 0 1 .85h6.3a1 1 0 0 0 1-.68l1.33-4a.999.999 0 0 0-.14-.9a1 1 0 0 0-.86-.42H3.3m7.65 9.5a.5.5 0 1 1 0-1a.5.5 0 0 1 0 1m-6.5 0a.5.5 0 1 1 0-1a.5.5 0 0 1 0 1M6.688 6v2m3-2v2"/></svg>
+                     <span class="main-nav-navigation-list-link-text">
+                        My Cart
+                     </span>
+                  </a>
+               </li>
+               <li class="main-nav-navigation-list-item" >
+                  <a class="main-nav-navigation-list-link centered" href="./register.html">
+                     <svg class="main-nav-navigation-list-link-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M7.5 6.5C7.5 8.981 9.519 11 12 11s4.5-2.019 4.5-4.5S14.481 2 12 2S7.5 4.019 7.5 6.5M20 21h1v-1c0-3.859-3.141-7-7-7h-4c-3.86 0-7 3.141-7 7v1z"/></svg>
+                     <span class="main-nav-navigation-list-link-text">
+                        Login | Signup
+                     </span>
+                  </a>
+               </li>
+               <li class="main-nav-navigation-list-item about-us" >
+                  <a class="main-nav-navigation-list-link centered" href="#">
+                     <svg class="main-nav-navigation-list-link-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M15.25 2h-6.5A6.76 6.76 0 0 0 2 8.75v6.5A6.76 6.76 0 0 0 8.75 22h6.5A6.76 6.76 0 0 0 22 15.25v-6.5A6.76 6.76 0 0 0 15.25 2m-3.29 4.56a1 1 0 1 1-.376.073a1 1 0 0 1 .386-.073zm1 10.58a1 1 0 1 1-2 0v-6.17a1 1 0 1 1 2 0z"/></svg>
+                     <span class="main-nav-navigation-list-link-text">
+                        About
+                     </span>
+                  </a>
+               </li>
+            </ul>
+         </nav>
+      </div>
+   </header>
+
+   <main class="container">
+      <section class="register">
+         <h1 class="register-title">Register</h1>
+         <div class="register-form-wrapper">
+            <div class="register-form-cont">
+               <form
+               id="register-form"
+               class="register-form"
+               action="https://httbin.org/get"
+               method="get"
+               target="_self"
+               enctype="application/x-www-form-urlencoded"
+               >
+                  <div class="register-form-inputs-cont">
+                     <div class="register-form-input-group">
+                        <label class="register-form-label" for="register-form-username-inp">
+                           Username
+                        </label>
+                        <div class="register-form-input-wrapper">
+                           <input
+                           type="text"
+                           name="username"
+                           id="register-form-username-inp"
+                           class="register-form-input"
+                           autocomplete="username"
+                           autocapitalize="on"
+                           required
+                           aria-required
+                           placeholder="Your username here"
+                           autofocus
+                           >
+                        </div>
+                     </div>
+                     <div class="register-form-input-group">
+                        <label class="register-form-label" for="register-form-email-inp">
+                           Email
+                        </label>
+                        <div class="register-form-input-wrapper">
+                           <input
+                           type="email"
+                           name="email"
+                           id="register-form-email-inp"
+                           class="register-form-input"
+                           autocomplete="email"
+                           inputmode="email"
+                           autocapitalize="off"
+                           required
+                           aria-required
+                           placeholder="Your email here"
+                           >
+                        </div>
+                     </div>
+                     <div class="register-form-input-group">
+                        <label class="register-form-label" for="register-form-password-inp">
+                           Password
+                        </label>
+                        <div class="register-form-input-wrapper">
+                           <input
+                           type="password"
+                           name="password"
+                           id="register-form-password-inp"
+                           class="register-form-input register-form-password-inp"
+                           autocapitalize="off"
+                           required
+                           aria-required
+                           placeholder="Your password here"
+                           >
+                           <!-- <div class="register-form-inp-controlers-cont">
+                              <label class="register-form-inp-controlers-label">
+                                 <input
+                                 type="checkbox"
+                                 id="register-form-password-show-toggler"
+                                 class="register-form-show-toggles"
+                                 >
+                              </label>
+                           </div> -->
+                        </div>
+                     </div>
+                     <div class="register-form-input-group">
+                        <label class="register-form-label" for="register-form-password-confirmation-inp">
+                           Confirm Password
+                        </label>
+                        <div class="register-form-input-wrapper">
+                           <input
+                           type="password"
+                           name="password-confirmation"
+                           id="register-form-password-confirmation-inp"
+                           class="register-form-input register-form-password-confirmation-inp"
+                           autocapitalize="off"
+                           required
+                        
+                           aria-required
+                           placeholder="Your password repetition here"
+                           >
+                        </div>
+                     </div>
+                  </div>
+                  <div class="register-form-btns-cont">
+                     <button
+                     type="button"
+                     id="register-form-submit-btn"
+                     class="register-form-btn register-form-submit-btn"
+                     >
+                        Register
+                     </button>
+                     <a
+                     id="register-form-have_an_account-link"
+                     class="register-form-link register-form-have_an_account-link"
+                     href="./login.html"
+                     >
+                        Already have an accoun? Login
+                     </a>
+                  </div>
+               </form>
+               <div class="register-form-side-banner">
+                  <img
+                  class="register-form-side-banner-img"
+                  srcset="./assets/images/register/register-banner-405.png, ./assets/images/register/register-banner-810.png 2x"
+                  src="./assets/images/register/register-banner-405.png"
+                  alt="Minicommerce_banner_img"
+                  loading="lazy"
+                  >
+               </div>
+            </div>
+         </div>
+         <!-- <aside class="register-user_security-cont">
+            <h2 class="register-user_security-title">
+               User Security
+            </h2>
+            <p class="register-user_security-text">
+               Lorem ipsum dolor sit amet consectetur adipisicing elit. Id voluptatem adipisci architecto libero sit sint labore atque, quaerat minus ab dolorem, culpa rerum? Tempora, obcaecati aut ipsa pariatur sed aperiam non voluptatibus tenetur earum possimus ea laboriosam libero quae natus explicabo quaerat vel. Nobis laborum, illum quisquam praesentium voluptate sunt sint quaerat facilis natus officiis magni fugiat numquam iusto voluptates molestiae quo reiciendis molestias repellat iure est eveniet? Magnam, inventore.
+            </p>
+         </aside> -->
+      </section>
+   </main>
+   
+</body>
+</html>

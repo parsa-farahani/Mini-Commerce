@@ -1,0 +1,1417 @@
+<!-- Copyright © 2024 Parsa Farahani -->
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr" >
+   <head>
+      <meta name="robots" content="index, follow" >
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width , initial-scale=1.0" >
+      <meta name="author" content="Parsa Farahani" >
+      <meta name="description" content="Mini-commerce, A eCommerce with high quality products" >
+      <meta name="title" content="Mini-Commerce | landing page">
+      <title>Mini-Commerce | landing page</title>
+      <link
+      rel="apple-touch-icon"
+      sizes="114x114"
+      href="./minicommerce-logo-2-114.png"
+      type="image/x-icon"
+      >
+      <link
+      rel="apple-touch-icon"
+      href="./minicommerce-logo-2-32.png"
+      type="image/x-icon"
+      >
+      <link
+      rel="icon"
+      href="./minicommerce-logo-2-32.png"
+      type="image/x-icon"
+      >
+      <!-- Open Graph -->
+      <meta property="og:type" content="website" >
+      <meta property="og:site_name" content="Mini-commerce" >
+      <meta property="og:url" content="www.minicommerce.com" >
+      <meta property="og:title" content="Mini-Commerce | landing page" >
+      <meta property="og:description" content="Mini-commerce, A eCommerce with high quality products" >
+      <meta property="og:image" content="./minicommerce-meta-poster-1280x720.png" >
+      <meta property="og:image:alt" content="minicommerce logo with a dark background" >
+      <!-- Twitter -->
+      <meta property="twitter:card" content="summary_large_image" >
+      <meta property="twitter:url" content="www.minicommerce.com" >
+      <meta property="twitter:title" content="Mini-Commerce | landing page" >
+      <meta property="twitter:description" content="Mini-commerce, A eCommerce with high quality products" >
+      <meta property="twitter:image" content="./minicommerce-meta-poster-1280x720.png" >
+
+      <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet">
+      <link rel="stylesheet" href="./css/index.css">
+      <script src="./general.js" defer ></script>
+      <script src="./global-search-input.js" defer ></script>
+      <script src="./back_to_top_btn.js" defer ></script>
+      <script src="./index.js" defer ></script>
+   </head>
+   <body class="">
+      <header>
+         <div class="header-inner-wrapper container">
+            <a id="skip_to_main_content-btn" href="#main-new_products-grid" >Skip to new products</a>
+            <div>
+               <!-- <button type="button" class="header-nav-collapse-btn" data-target="main-nav">
+                  <svg class="header-nav-collapse-btn-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><rect width="18" height="2" x="3" y="11" fill="currentColor" rx=".95" ry=".95"/><rect width="18" height="2" x="3" y="16" fill="currentColor" rx=".95" ry=".95"/><rect width="18" height="2" x="3" y="6" fill="currentColor" rx=".95" ry=".95"/></svg>
+               </button> -->
+               <a href="/" class="main-nav-logo-link" aria-label="miniCommerce logo home" >
+                  <img class="main-nav-logo-link-img" src="./assets/logos/mini-commerce-logo-2-cropped.svg" alt="">
+                  <span class="main-nav-logo-link-text" >
+                     Mini<span class="main-nav-logo-link-text-commerce" >Commerce</span>
+                  </span>
+               </a>
+            </div>
+            <form class="main-nav-search-cont-form" role="search" action="/products-search.html" target="_blank" method="get" autocomplete="off" >
+               <input
+               id="main-nav-search-cont-form-input"
+               class="main-nav-search-cont-form-input"
+               type="search"
+               name="search"
+               placeholder="Search Products..."
+               autocapitalize="off"
+               spellcheck="false"
+               aria-label="Search through website"
+               >
+               <div class="main-nav-search-cont-form-btns-cont">
+                  <button
+                  id="main-nav-search-cont-form-clear-btn"
+                  class="main-nav-search-cont-form-btn main-nav-search-cont-form-clear-btn"
+                  type="button"
+                  tabindex="-1"
+                  aria-label="clear">
+                     <i
+                     class="material-symbols-outlined main-nav-search-cont-form-btn-icon main-nav-search-cont-form-clear-btn-icon"
+                     role="img"
+                     aria-hidden="true" >
+                        close
+                     </i>
+                  </button>
+                  <button
+                  id="main-nav-search-cont-form-go-btn"
+                  class="main-nav-search-cont-form-btn main-nav-search-cont-form-go-btn"
+                  type="submit"
+                  aria-label="go">
+                     <i
+                     class="material-symbols-outlined main-nav-search-cont-form-btn-icon main-nav-search-cont-form-go-btn-icon"
+                     role="img"
+                     aria-hidden="true" >
+                        search
+                     </i>
+                  </button>
+               </div>
+            </form>
+            <nav id="main-nav" class="main-nav" aria-label="main navigation">
+               <ul class="main-nav-navigation-list" >
+                  <li class="main-nav-navigation-list-item" >
+                     <button type="button" id="main-nav-navigation-list-changetheme-btn" class="main-nav-navigation-list-btn main-nav-navigation-list-changetheme-btn centered" aria-label="light/dark theme">
+                        <svg class="main-nav-navigation-list-changetheme-btn-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M10 3.5a6.5 6.5 0 1 1 0 13zM10 2a8 8 0 1 0 0 16a8 8 0 0 0 0-16"/></svg>
+                     </button>
+                  </li>
+                  <li id="main-nav-navigation-list-categories-item" class="main-nav-navigation-list-item" >
+                     <button id="main-nav-navigation-list-categories-btn" class="main-nav-navigation-list-btn main-nav-navigation-list-categories-btn centered" type="button" aria-expanded="false" data-isexpanded="false">
+                        <svg class="main-nav-navigation-list-link-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M10 3H4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1M9 9H5V5h4zm11-6h-6a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1m-1 6h-4V5h4zm-9 4H4a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-6a1 1 0 0 0-1-1m-1 6H5v-4h4zm8-6c-2.206 0-4 1.794-4 4s1.794 4 4 4s4-1.794 4-4s-1.794-4-4-4m0 6c-1.103 0-2-.897-2-2s.897-2 2-2s2 .897 2 2s-.897 2-2 2"/></svg>
+                        <span class="main-nav-navigation-list-link-text">
+                           Categories
+                        </span>
+                        <i class="material-symbols-outlined main-nav-navigation-list-categories-btn-icon" >expand_more</i>
+                     </button>
+                     <div aria-hidden="true" id="main-nav-navigation-list-categories-item-submenu-wrapper" class="main-nav-navigation-list-categories-item-submenu-wrapper" role="menu" >
+                        <div id="main-nav-navigation-list-categories-item-submenu" class="main-nav-navigation-list-categories-item-submenu">
+                           <button id="main-nav-navigation-list-categories-item-submenu-close-btn" class="main-nav-navigation-list-item-submenu-close-btn" type="button">
+                              &#x2715;
+                           </button>
+                           <ul class="main-nav-navigation-list-categories-item-submenu-list" >
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-title-item" >
+                                 <a href="#" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    <h3 class="main-nav-navigation-list-categories-item-submenu-list-title" >
+                                       Clothes
+                                    </h3>
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Winter Clothes
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Winter Clothes
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Winter Clothes
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Winter Clothes
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Winter Clothes
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Winter Clothes
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Winter Clothes
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Winter Clothes
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Winter Clothes
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Winter Clothes
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Winter Clothes
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Summer Clothes
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Sport Clothes
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    women's dresses
+                                 </a>
+                              </li>
+                           </ul>
+                           <ul class="main-nav-navigation-list-categories-item-submenu-list" >
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-title-item" >
+                                 <a href="#" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    <h3 class="main-nav-navigation-list-categories-item-submenu-list-title" >
+                                       Electronic Devices
+                                    </h3>
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Phones
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Game Console
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Pc
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Headphones
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Mouse & Keyboard
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link">
+                                    Mouse & Keyboard
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link">
+                                    Mouse & Keyboard
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link">
+                                    Mouse & Keyboard
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link">
+                                    Mouse & Keyboard
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link">
+                                    Mouse & Keyboard
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link">
+                                    Mouse & Keyboard
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link">
+                                    Mouse & Keyboard
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link">
+                                    Mouse & Keyboard
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link">
+                                    Mouse & Keyboard
+                                 </a>
+                              </li>
+                           </ul>
+                           <ul class="main-nav-navigation-list-categories-item-submenu-list" >
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-title-item" >
+                                 <a href="#" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    <h3 class="main-nav-navigation-list-categories-item-submenu-list-title" >
+                                       Cosmetics
+                                    </h3>
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Creams & Serums
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Lipsticks & Mascaras
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Lotions & Deodorants
+                                 </a>
+                              </li>
+                           </ul>
+                           <ul class="main-nav-navigation-list-categories-item-submenu-list" >
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-title-item" >
+                                 <a href="#" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem" >
+                                    <h3 class="main-nav-navigation-list-categories-item-submenu-list-title" >
+                                       Sport
+                                    </h3>
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Sport Clothes
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Skates
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    swimming accessories
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Bodybuilding supplements
+                                 </a>
+                              </li>
+                           </ul>
+                           <ul class="main-nav-navigation-list-categories-item-submenu-list" >
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-title-item" >
+                                 <a href="#" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem" >
+                                    <h3 class="main-nav-navigation-list-categories-item-submenu-list-title" >
+                                       Food & Groceries
+                                    </h3>
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Ready Meals
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Vegetables
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Fruits
+                                 </a>
+                              </li>
+                           </ul>
+                           <ul class="main-nav-navigation-list-categories-item-submenu-list" >
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-title-item" >
+                                 <a href="#" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem" >
+                                    <h3 class="main-nav-navigation-list-categories-item-submenu-list-title" >
+                                       Art & Design
+                                    </h3>
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Papers & Canvases
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Brushes
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Colored Pencils & Colors
+                                 </a>
+                              </li>
+                              <li class="main-nav-navigation-list-categories-item-submenu-list-item">
+                                 <a href="" class="main-nav-navigation-list-categories-item-submenu-list-item-link" role="menuitem">
+                                    Sculpting Supplies
+                                 </a>
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                  </li>
+                  <li class="main-nav-navigation-list-item" >
+                     <a class="main-nav-navigation-list-link centered" href="#">
+                        <svg class="main-nav-navigation-list-link-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M.508.5H2.95l.87 8.65a1 1 0 0 0 1 .85h6.3a1 1 0 0 0 1-.68l1.33-4a.999.999 0 0 0-.14-.9a1 1 0 0 0-.86-.42H3.3m7.65 9.5a.5.5 0 1 1 0-1a.5.5 0 0 1 0 1m-6.5 0a.5.5 0 1 1 0-1a.5.5 0 0 1 0 1M6.688 6v2m3-2v2"/></svg>
+                        <span class="main-nav-navigation-list-link-text">
+                           My Cart
+                        </span>
+                     </a>
+                  </li>
+                  <li class="main-nav-navigation-list-item" >
+                     <a class="main-nav-navigation-list-link centered" href="./register.html">
+                        <svg class="main-nav-navigation-list-link-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M7.5 6.5C7.5 8.981 9.519 11 12 11s4.5-2.019 4.5-4.5S14.481 2 12 2S7.5 4.019 7.5 6.5M20 21h1v-1c0-3.859-3.141-7-7-7h-4c-3.86 0-7 3.141-7 7v1z"/></svg>
+                        <span class="main-nav-navigation-list-link-text">
+                           Login | Signup
+                        </span>
+                     </a>
+                  </li>
+                  <li class="main-nav-navigation-list-item about-us" >
+                     <a class="main-nav-navigation-list-link centered" href="#">
+                        <svg class="main-nav-navigation-list-link-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M15.25 2h-6.5A6.76 6.76 0 0 0 2 8.75v6.5A6.76 6.76 0 0 0 8.75 22h6.5A6.76 6.76 0 0 0 22 15.25v-6.5A6.76 6.76 0 0 0 15.25 2m-3.29 4.56a1 1 0 1 1-.376.073a1 1 0 0 1 .386-.073zm1 10.58a1 1 0 1 1-2 0v-6.17a1 1 0 1 1 2 0z"/></svg>
+                        <span class="main-nav-navigation-list-link-text">
+                           About
+                        </span>
+                     </a>
+                  </li>
+               </ul>
+            </nav>
+         </div>
+      </header>
+
+      <main class="container">
+         <section class="main-intro">
+            <aside class="main-intro-side-categories-cont" >
+               <nav class="main-intro-side-categories-nav" aria-label="intro navigation">
+                  <ul class="main-intro-side-categories-list">
+                     <li id="main-intro-side-categories-item-1" class="main-intro-side-categories-item">
+                        <a href="" class="main-intro-side-categories-link">
+                           <p class="main-intro-side-categories-link-text" >Artworks Gallery</p>
+                           <svg class="main-intro-side-categories-link-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2S2 6.477 2 12s4.477 10 10 10m.47-13.53a.75.75 0 0 1 1.06 0l3 3a.75.75 0 0 1 0 1.06l-3 3a.75.75 0 1 1-1.06-1.06l1.72-1.72H8a.75.75 0 0 1 0-1.5h6.19l-1.72-1.72a.75.75 0 0 1 0-1.06" clip-rule="evenodd"/></svg>
+                        </a>
+                     </li>
+                     <li id="main-intro-side-categories-item-2" class="main-intro-side-categories-item">
+                        <a href="" class="main-intro-side-categories-link">
+                           <p class="main-intro-side-categories-link-text" >Christmass Sale</p>
+                           <svg class="main-intro-side-categories-link-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2S2 6.477 2 12s4.477 10 10 10m.47-13.53a.75.75 0 0 1 1.06 0l3 3a.75.75 0 0 1 0 1.06l-3 3a.75.75 0 1 1-1.06-1.06l1.72-1.72H8a.75.75 0 0 1 0-1.5h6.19l-1.72-1.72a.75.75 0 0 1 0-1.06" clip-rule="evenodd"/></svg>
+                        </a>
+                     </li>
+                     <li id="main-intro-side-categories-item-3" class="main-intro-side-categories-item">
+                        <a href="" class="main-intro-side-categories-link">
+                           <p class="main-intro-side-categories-link-text" >Sea Food</p>
+                           <svg class="main-intro-side-categories-link-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2S2 6.477 2 12s4.477 10 10 10m.47-13.53a.75.75 0 0 1 1.06 0l3 3a.75.75 0 0 1 0 1.06l-3 3a.75.75 0 1 1-1.06-1.06l1.72-1.72H8a.75.75 0 0 1 0-1.5h6.19l-1.72-1.72a.75.75 0 0 1 0-1.06" clip-rule="evenodd"/></svg>
+                        </a>
+                     </li>
+                     <li id="main-intro-side-categories-item-4" class="main-intro-side-categories-item">
+                        <a href="" class="main-intro-side-categories-link">
+                           <p class="main-intro-side-categories-link-text" >Chinese Clothes</p>
+                           <svg class="main-intro-side-categories-link-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2S2 6.477 2 12s4.477 10 10 10m.47-13.53a.75.75 0 0 1 1.06 0l3 3a.75.75 0 0 1 0 1.06l-3 3a.75.75 0 1 1-1.06-1.06l1.72-1.72H8a.75.75 0 0 1 0-1.5h6.19l-1.72-1.72a.75.75 0 0 1 0-1.06" clip-rule="evenodd"/></svg>
+                        </a>
+                     </li>
+                     <li id="main-intro-side-categories-item-5" class="main-intro-side-categories-item">
+                        <a href="" class="main-intro-side-categories-link">
+                           <p class="main-intro-side-categories-link-text" >Special Sale</p>
+                           <svg class="main-intro-side-categories-link-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" fill-rule="evenodd" d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2S2 6.477 2 12s4.477 10 10 10m.47-13.53a.75.75 0 0 1 1.06 0l3 3a.75.75 0 0 1 0 1.06l-3 3a.75.75 0 1 1-1.06-1.06l1.72-1.72H8a.75.75 0 0 1 0-1.5h6.19l-1.72-1.72a.75.75 0 0 1 0-1.06" clip-rule="evenodd"/></svg>
+                        </a>
+                     </li>
+                     
+                  </ul>
+               </nav>
+            </aside>
+            <div class="main-intro-banner-cont" >
+               <img class="main-intro-banner-img" src="./assets/images/mini-commerce-logo-2-smile-480.png" srcset="./assets/images/mini-commerce-logo-2-smile-320.png , ./assets/images/mini-commerce-logo-2-smile-480.png 1.5x, ./assets/images/mini-commerce-logo-2-smile-640.png 2x" alt="Smiling MiniCommerce logo">
+               <div class="main-intro-banner-title-cont">
+                  <h1 class="main-intro-banner-title" >
+                     MiniCommerce
+                     <br>
+                     Buy Best Products
+                  </h1>
+                  <p class="main-intro-banner-text">
+                     buy your favourite product with amazing quality and good price
+                  </p>
+               </div>
+               <a class="main-intro-banner-btn" href="#">
+                  Shop now
+               </a>
+            </div>
+            <aside class="main-intro-side-notes-cont" >
+               <ul class="main-intro-side-notes-list">
+                  <li class="main-intro-side-notes-item">
+                     <h4 class="main-intro-side-notes-title">
+                        <span class="main-intro-side-notes-title-icon-cont">
+                           <svg id="certified-providers-icon" class="main-intro-side-notes-title-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="2" d="M20 15c-1 1 1.25 3.75 0 5s-4-1-5 0s-1.5 3-3 3s-2-2-3-3s-3.75 1.25-5 0s1-4 0-5s-3-1.5-3-3s2-2 3-3s-1.25-3.75 0-5s4 1 5 0s1.5-3 3-3s2 2 3 3s3.75-1.25 5 0s-1 4 0 5s3 1.5 3 3s-2 2-3 3ZM7 12l3 3l7-7"/></svg>
+                        </span>
+                        <span class="main-intro-side-notes-title-text">
+                           Certified providers
+                        </span>
+                     </h4>
+                     <p class="main-intro-side-notes-text">
+                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat, dignissimos. 
+                     </p>
+                  </li>
+                  <li class="main-intro-side-notes-item">
+                     <h4 class="main-intro-side-notes-title">
+                        <span class="main-intro-side-notes-title-icon-cont">
+                           <svg class="main-intro-side-notes-title-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2C6.486 2 2 6.486 2 12v4.143C2 17.167 2.897 18 4 18h1a1 1 0 0 0 1-1v-5.143a1 1 0 0 0-1-1h-.908C4.648 6.987 7.978 4 12 4s7.352 2.987 7.908 6.857H19a1 1 0 0 0-1 1V18c0 1.103-.897 2-2 2h-2v-1h-4v3h6c2.206 0 4-1.794 4-4c1.103 0 2-.833 2-1.857V12c0-5.514-4.486-10-10-10"/></svg>
+                        </span>
+                        <span class="main-intro-side-notes-title-text">
+                           Product sales support
+                        </span>
+                     </h4>
+                     <p class="main-intro-side-notes-text">
+                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat, dignissimos. 
+                     </p>
+                  </li>
+                  <li class="main-intro-side-notes-item">
+                     <h4 class="main-intro-side-notes-title">
+                        <span class="main-intro-side-notes-title-icon-cont">
+                           <svg class="main-intro-side-notes-title-icon" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M3 13.5L2.25 12H7.5l-.6-1.5H2L1.25 9h7.8l-.6-1.5H1.11L.25 6H4a2 2 0 0 1 2-2h12v4h3l3 4v5h-2a3 3 0 0 1-3 3a3 3 0 0 1-3-3h-4a3 3 0 0 1-3 3a3 3 0 0 1-3-3H4v-3.5zm16 5a1.5 1.5 0 0 0 1.5-1.5a1.5 1.5 0 0 0-1.5-1.5a1.5 1.5 0 0 0-1.5 1.5a1.5 1.5 0 0 0 1.5 1.5m1.5-9H18V12h4.46zM9 18.5a1.5 1.5 0 0 0 1.5-1.5A1.5 1.5 0 0 0 9 15.5A1.5 1.5 0 0 0 7.5 17A1.5 1.5 0 0 0 9 18.5"/></svg>
+                        </span>
+                        <span class="main-intro-side-notes-title-text">
+                           Fast & Reliable Delivery
+                        </span>
+                     </h4>
+                     <p class="main-intro-side-notes-text">
+                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat, dignissimos. 
+                     </p>
+                  </li>
+               </ul>
+            </aside>
+            <!-- <div class="main-intro-neon_mist-filter"></div> -->
+            <div class="main-intro-neon_mist">
+               <div class="main-intro-neon_mist-shape-1"></div>
+               <div class="main-intro-neon_mist-shape-2"></div>
+               <div class="main-intro-neon_mist-shape-3"></div>
+               <div class="main-intro-neon_mist-shape-4"></div>
+               <div class="main-intro-neon_mist-shape-5"></div>
+            </div>
+         </section>
+       
+         <section class="main-products-showcase" >
+            <h2 class="hidden-heading" >Products Showcase</h2>
+            <div class="main-products-showcase-slider-cont" role="region" aria-label="showcase slideshow carousel">
+               <div class="main-products-showcase-slider-slides-wrapper">
+                  <figure id="main-products-showcase-slider-slide-1" class="main-products-showcase-slider-slide" aria-hidden="false">
+                     <img class="main-products-showcase-slider-slide-img" src="./assets/images/backgrounds/showcase/carousel/black-friday-min.png" alt="Black Friday discounts begins! %15 on all products" loading="lazy">
+                     <figcaption class="main-products-showcase-slider-slide-title hidden-heading">Black Friday discounts begins!</figcaption>
+                  </figure>
+                  <figure id="main-products-showcase-slider-slide-2" class="main-products-showcase-slider-slide" aria-hidden="true">
+                     <img class="main-products-showcase-slider-slide-img" src="./assets/images/backgrounds/showcase/carousel/special-gifts-min.png" alt="Special gifts for every shopping. discount codes , gift products" loading="lazy">
+                     <figcaption class="main-products-showcase-slider-slide-title hidden-heading">Special Gifts in our showcase lorem5</figcaption>
+                  </figure>
+                  <figure id="main-products-showcase-slider-slide-3" class="main-products-showcase-slider-slide" aria-hidden="true">
+                     <img class="main-products-showcase-slider-slide-img" src="./assets/images/backgrounds/showcase/carousel/watches-min.png" alt="20% discount on all watches in this week" loading="lazy">
+                     <figcaption class="main-products-showcase-slider-slide-title hidden-heading">20% discount on all watches in this week</figcaption>
+                  </figure>
+               </div>
+               <!-- Slides Control Buttons -->
+               <button type="button" id="main-products-showcase-slider-sidebtn-prev" class="main-products-showcase-slider-sidebtn main-products-showcase-slider-sidebtn-prev" aria-label="previous slide">
+                  <i class="material-symbols-outlined" role="img" aria-hidden="true">arrow_back_ios</i>
+               </button>
+               <button type="button" id="main-products-showcase-slider-sidebtn-next" class="main-products-showcase-slider-sidebtn main-products-showcase-slider-sidebtn-next" aria-label="next slide">
+                  <i class="material-symbols-outlined" role="img" aria-hidden="true">arrow_forward_ios</i>
+               </button>
+               <div class="main-products-showcase-slider-bottombtns-cont" >
+                  <button type="button" id="main-products-showcase-slider-bottombtn-1" class="main-products-showcase-slider-bottombtn" role="button" aria-label="slide 1" aria-passed="true"></button>
+                  <button type="button" id="main-products-showcase-slider-bottombtn-2" class="main-products-showcase-slider-bottombtn" role="button" aria-label="slide 2" aria-passed="false"></button>
+                  <button type="button" id="main-products-showcase-slider-bottombtn-3" class="main-products-showcase-slider-bottombtn" role="button" aria-label="slide 3" aria-passed="false"></button>
+               </div>
+            </div>
+            <div class="main-products-showcase-posts-cont" >
+               <article id="main-products-showcase-post-1" class="main-products-showcase-post main-products-showcase-post-1">
+                  <a class="main-products-showcase-post-link" href="#">
+                     <img
+                     class="main-products-showcase-post-link-img"
+                     srcset=
+                     "
+                     ./assets/images/backgrounds/showcase/posts/shirt-320-cropped.png,
+                     ./assets/images/backgrounds/showcase/posts/shirt-640-cropped.png 2x
+                     "
+                     src="./assets/images/backgrounds/showcase/posts/shirt-640-cropped.png"
+                     alt="a white men's shirt on a pink bacgground and firework patterns in background"
+                     loading="lazy">
+                     <h3 class="main-products-showcase-post-link-title">Shirts Festival, Begins!</h3>
+                  </a>
+               </article>
+               <article id="main-products-showcase-post-2" class="main-products-showcase-post main-products-showcase-post-2">
+                  <a class="main-products-showcase-post-link" href="#">
+                     <img
+                     class="main-products-showcase-post-link-img"
+                     src="./assets/images/backgrounds/showcase/posts/ps5-cropped-960.png"
+                     alt=""
+                     loading="lazy"
+                     >
+                     <h3 class="main-products-showcase-post-link-title">Shopping Prizes!! PS5 and much more...</h3>
+                  </a>
+               </article>
+               <article id="main-products-showcase-post-3" class="main-products-showcase-post main-products-showcase-post-3">
+                  <a class="main-products-showcase-post-link" href="#">
+                     <h3 class="main-products-showcase-post-link-title">
+                        Electronics at Best Prices
+                     </h3>
+                     <img
+                     class="main-products-showcase-post-link-img"
+                     srcset=
+                     "
+                     ./assets/images/backgrounds/showcase/posts/airpods-new-405.png,
+                     ./assets/images/backgrounds/showcase/posts/airpods-new-810.png 2x
+                     "
+                     src="./assets/images/backgrounds/showcase/posts/airpods-new-810.png"
+                     alt="a gold IPhone with white airpods"
+                     loading="lazy">
+                  </a>
+                  <div class="main-products-showcase-post-shadow"></div>
+               </article>
+               <article id="main-products-showcase-post-4" class="main-products-showcase-post main-products-showcase-post-4">
+                  <a class="main-products-showcase-post-link" href="#">
+                     <img
+                     class="main-products-showcase-post-link-img"
+                     srcset=
+                     "
+                     ./assets/images/backgrounds/showcase/posts/jewelry-original-304.png,
+                     ./assets/images/backgrounds/showcase/posts/jewelry-original-608.png 2x
+                     "
+                     src="./assets/images/backgrounds/showcase/posts/jewelry-original-608.png"
+                     alt="a beautiful women's necklace made of gold and jewelry which has a woman's face in center" 
+                     loading="lazy"
+                     >
+                     <h3 class="main-products-showcase-post-link-title">
+                        Our Latest Jewelries
+                     </h3>
+                  </a>
+               </article>
+            </div>
+            <div class="gradient-between-main_intro-and-products_showcase" >
+               <div class="g-top" ></div>
+               <div class="g-bot" ></div>
+            </div>
+         </section>
+         <!-- Section 3  -->
+         <section class="main-popular_products">
+            <div class="main-popular_products-title-cont lined-title-cont">
+               <hr class="left-separator scaleX-0">
+               <h2 class="main-popular_products-title main-popular_products-title" >
+                  Popular Products
+               </h2>
+               <hr class="right-separator scaleX-0">
+            </div>
+            <div class="main-popular_products-all-products-wrapper">
+               <div class="main-popular_products-banner-cont">
+                  <article class="main-popular_products-banner-product" itemscope itemtype="http://schema.org/Product">
+                     <div class="main-popular_products-banner-product-img-cont">
+                        <a href="#">
+                           <img
+                           class="main-popular_products-banner-product-img"
+                           srcset=
+                           "
+                           ./assets/images/products/popular-products-banner/iPhone-625.jpg,
+                           ./assets/images/products/popular-products-banner/iPhone-1250.jpg 2x
+                           "
+                           src="./assets/images/products/popular-products-banner/iPhone-1250.jpg"
+                           alt="three iPhones are arranged beside eachother with a black background and a gray smoke effect"
+                           loading="lazy"
+                           itemprop="image"
+                           >
+                        </a>
+                        <div class="img-attr" ><a href="https://www.freepik.com/free-vector/mobile-phone-mockup-front-rear-view_13311362.htm#query=iphone%20poster&position=31&from_view=keyword&track=ais&uuid=990c427b-0575-4f4a-8d89-aa00321d1e4b">Image by rawpixel.com</a> on Freepik</div>
+                     </div>
+                     <div class="main-popular_products-banner-product-info">
+                        <div class="main-popular_products-banner-product-info-title-cont">
+                           <h3 class="main-popular_products-banner-product-info-title-name" itemprop="name">
+                              Apple IPhone 14
+                           </h3>
+                           <p class="main-popular_products-banner-product-info-title-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel maxime placeat cum ex nostrum iste velit corporis, a qui id, tempore ut sit perferendis aperiam.</p>
+                        </div>
+                        <div class="main-popular_products-banner-product-info-specs-cont">
+                           <table class="main-popular_products-banner-product-info-specs-table">
+                              <tr class="main-popular_products-banner-product-info-specs-table-row">
+                                 <th class="main-popular_products-banner-product-info-specs-table-head" scope="row">Memory <span class="left-auto">:</span></th>
+                                 <td class="main-popular_products-banner-product-info-specs-table-data" colspan="3">6GB to 8GB</td>
+                              </tr>
+                              <tr class="main-popular_products-banner-product-info-specs-table-row">
+                                 <th class="main-popular_products-banner-product-info-specs-table-head" scope="row">Camera <span class="left-auto">:</span></th>
+                                 <td class="main-popular_products-banner-product-info-specs-table-data" colspan="3">120Mp</td>
+                              </tr>
+                              <tr class="main-popular_products-banner-product-info-specs-table-row">
+                                 <th class="main-popular_products-banner-product-info-specs-table-head" scope="row">Colors <span class="left-auto">:</span></th>
+                                 <td class="main-popular_products-banner-product-info-specs-table-data main-popular_products-banner-product-info-specs-table-data-silver">
+                                    <span aria-label="silver"></span>
+                                 </td>
+                                 <td class="main-popular_products-banner-product-info-specs-table-data main-popular_products-banner-product-info-specs-table-data-black">
+                                    <span aria-label="black"></span>
+                                 </td>
+                                 <td class="main-popular_products-banner-product-info-specs-table-data main-popular_products-banner-product-info-specs-table-data-white">
+                                    <span aria-label="white"></span>
+                                 </td>
+                              </tr>
+                           </table>
+                        </div>
+                        <div
+                        class="main-popular_products-banner-product-info-price-cont"
+                        itemprop="price"
+                        content="171"
+                        data-currency="USD"
+                        >
+                           <s>$180</s>&nbsp;-&nbsp;
+                           <span>$171</span>
+                        </div>
+                        <hr class="full-separator op-50">
+                        <footer class="main-popular_products-banner-product-footer">
+                           <a href="#" class="main-popular_products-banner-product-footer-btn main-popular_products-banner-product-view-btn">view</a>
+                           <button type="button" class="main-popular_products-banner-product-footer-btn main-popular_products-banner-product-add-btn">add to cart</button>
+                        </footer>
+                     </div>
+                  </article>
+               </div>
+               <div class="main-popular_products-products-cont">
+                  <article class="product main-popular_products-product main-popular_products-product-1" itemscope itemtype="http://schema.org/Product">
+                     <div class="product-img-cont">
+                        <a href="#">
+                           <img class="product-img"
+                           srcset="./assets/images/products/smartphone-1-512.jpg 1x, ./assets/images/products/smartphone-1-768.jpg 1.5x, ./assets/images/products/smartphone-1-1024.jpg 2x"
+                           src="./assets/images/products/smartphone-1-512.jpg"
+                           alt="a smart phone in 2 positions with a ligh"
+                           loading="lazy"
+                           itemprop="image"
+                           >
+                        </a>
+                        <div class="img-attr txt-dark">
+                           <a class="txt-dark" href="https://www.freepik.com/free-photo/technology-panoramic-banner-collage_138707500.htm#fromView=search&page=1&position=24&uuid=1298abb4-0a52-48f7-ba34-6b1e7daa5fbc">Image by freepik</a>
+                        </div>
+                     </div>
+                     <div class="product-info">
+                        <div class="product-info-title-cont">
+                           <h3 class="product-info-title-name" itemprop="name">
+                              Samsung S28
+                           </h3>
+                           <a href="#" class="product-info-title-category-link main-popular_products-product-info-title-category-link" itemprop="category">
+                              Electronic Devices / Phones
+                           </a>
+                        </div>
+                        <hr class="full-separator op-25">
+                        <div class="product-info-price-cont">
+                           <div
+                           class="product-info-price"
+                           itemprop="price"
+                           content="150"
+                           data-currency="USD"
+                           >
+                              <span>
+                                 $150
+                              </span>
+                           </div>
+                           <div class="product-info-rating" itemprop="rating" content="4.7">
+                              <span class="product-info-rating-num excellent">4.7</span>
+                              <svg class="product-info-rating-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentcolor" fill-rule="evenodd" d="M12.908 1.581a1 1 0 0 0-1.816 0l-2.87 6.22l-6.801.807a1 1 0 0 0-.562 1.727l5.03 4.65l-1.335 6.72a1 1 0 0 0 1.469 1.067L12 19.426l5.977 3.346a1 1 0 0 0 1.47-1.068l-1.335-6.718l5.029-4.651a1 1 0 0 0-.562-1.727L15.777 7.8z" clip-rule="evenodd"/></svg>
+                              <!-- <svg class="progress-ring product-info-rating-icon" viewBox="0 0 120 120">
+                                 <circle class="progress-ring__circle" stroke-width="15" fill="transparent" r="52" cx="60" cy="60" />
+                             </svg> -->
+                           </div>
+                        </div>
+                        <footer class="product-footer">
+                           <a href="#" class="product-footer-btn product-view-btn main-popular_products-product-footer-btn">view</a>
+                           <button type="button" class="product-footer-btn product-add-btn main-popular_products-product-footer-btn">add to cart</button>
+                           <button type="button" class="product-footer-btn product-mark-btn main-popular_products-product-footer-btn" aria-label="mark">
+                              <svg class="product-mark-btn-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M16 2H8a3.003 3.003 0 0 0-3 3v16.5a.5.5 0 0 0 .75.434l6.25-3.6l6.25 3.6A.5.5 0 0 0 19 21.5V5a3.003 3.003 0 0 0-3-3m2 18.635l-5.75-3.312a.51.51 0 0 0-.5 0L6 20.635V5a2.003 2.003 0 0 1 2-2h8a2.003 2.003 0 0 1 2 2z"/></svg>
+                           </button>
+                        </footer>
+                     </div>
+                  </article>
+                  <article class="product main-popular_products-product main-popular_products-product-2" itemscope itemtype="http://schema.org/Product">
+                     <div class="product-img-cont">
+                        <a href="#">
+                           <img
+                           class="product-img"
+                           srcset="assets/images/products/camera-512.jpg, assets/images/products/camera-768.jpg 1.5x, assets/images/products/camera-1024.jpg 2x"
+                           src="assets/images/products/camera-512.jpg"
+                           alt="a black camera with 2 lenzes"
+                           loading="lazy"
+                           itemprop="image"
+                           >
+                        </a>
+                        <div class="img-attr"><a href="https://www.freepik.com/free-photo/retro-black-camera-arrangement_13360546.htm#fromView=search&page=3&position=27&uuid=ab41e103-68ab-43a4-86ab-f7de737ab0e9">Image by freepik</a></div>
+                     </div>
+                     <div class="product-info">
+                        <div class="product-info-title-cont">
+                           <h3 class="product-info-title-name" itemprop="name">
+                              Samsung S28
+                           </h3>
+                           <a href="#" class="product-info-title-category-link main-popular_products-product-info-title-category-link" itemprop="category">
+                              Electronic Devices / Phones
+                           </a>
+                        </div>
+                        <hr class="full-separator op-25">
+                        <div class="product-info-price-cont">
+                           <div
+                           class="product-info-price"
+                           itemprop="price"
+                           content="150"
+                           data-currency="USD"
+                           >
+                              <span>
+                                 $150
+                              </span>
+                           </div>
+                           <div class="product-info-rating" itemprop="rating" content="4.7">
+                              <span class="product-info-rating-num good">4.1</span>
+                              <svg class="product-info-rating-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentcolor" fill-rule="evenodd" d="M12.908 1.581a1 1 0 0 0-1.816 0l-2.87 6.22l-6.801.807a1 1 0 0 0-.562 1.727l5.03 4.65l-1.335 6.72a1 1 0 0 0 1.469 1.067L12 19.426l5.977 3.346a1 1 0 0 0 1.47-1.068l-1.335-6.718l5.029-4.651a1 1 0 0 0-.562-1.727L15.777 7.8z" clip-rule="evenodd"/></svg>
+                           </div>
+                        </div>
+                        <footer class="product-footer">
+                           <a href="#" class="product-footer-btn product-view-btn main-popular_products-product-footer-btn">view</a>
+                            <button type="button" class="product-footer-btn product-add-btn main-popular_products-product-footer-btn">add to cart</button>
+                           <button type="button" class="product-footer-btn product-mark-btn main-popular_products-product-footer-btn" aria-label="mark">
+                              <svg class="product-mark-btn-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M16 2H8a3.003 3.003 0 0 0-3 3v16.5a.5.5 0 0 0 .75.434l6.25-3.6l6.25 3.6A.5.5 0 0 0 19 21.5V5a3.003 3.003 0 0 0-3-3m2 18.635l-5.75-3.312a.51.51 0 0 0-.5 0L6 20.635V5a2.003 2.003 0 0 1 2-2h8a2.003 2.003 0 0 1 2 2z"/></svg>
+                           </button>
+                        </footer>
+                     </div>
+                  </article>
+                  <article class="product main-popular_products-product main-popular_products-product-3" itemscope itemtype="http://schema.org/Product">
+                     <div class="product-img-cont">
+                        <a href="#">
+                           <img
+                           class="product-img"
+                           srcset=
+                           "
+                           ./assets/images/products/denimjacket-512.jpg,
+                           ./assets/images/products/denimjacket-768.jpg 1.5x,
+                           ./assets/images/products/denimjacket-512.jpg 2x
+                           "
+                           src="./assets/images/products/denimjacket-512.jpg"
+                           alt="A women's white denim jacket"
+                           loading="lazy"
+                           itemprop="image"
+                           >
+                        </a>
+                        <div class="img-attr"><a href="https://www.freepik.com/free-photo/white-denim-jacket-front-view-streetwear-fashion_15850189.htm#fromView=search&page=1&position=36&uuid=9ff9f485-9314-4c63-b5f2-0cd68aa5dbb4">Image by rawpixel.com on Freepik</a></div>
+                     </div>
+                     <div class="product-info">
+                        <div class="product-info-title-cont">
+                           <h3 class="product-info-title-name" itemprop="name">
+                              Samsung S28
+                           </h3>
+                           <a href="#" class="product-info-title-category-link main-popular_products-product-info-title-category-link" itemprop="category">
+                              Electronic Devices / Phones
+                           </a>
+                        </div>
+                        <hr class="full-separator op-25">
+                        <div class="product-info-price-cont">
+                           <div
+                           class="product-info-price"
+                           itemprop="price"
+                           content="150"
+                           data-currency="USD"
+                           >
+                              <span>
+                                 $150
+                              </span>
+                           </div>
+                           <div class="product-info-rating" itemprop="rating" content="4.7">
+                              <span class="product-info-rating-num excellent">4.5</span>
+                              <svg class="product-info-rating-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentcolor" fill-rule="evenodd" d="M12.908 1.581a1 1 0 0 0-1.816 0l-2.87 6.22l-6.801.807a1 1 0 0 0-.562 1.727l5.03 4.65l-1.335 6.72a1 1 0 0 0 1.469 1.067L12 19.426l5.977 3.346a1 1 0 0 0 1.47-1.068l-1.335-6.718l5.029-4.651a1 1 0 0 0-.562-1.727L15.777 7.8z" clip-rule="evenodd"/></svg>
+                           </div>
+                        </div>
+                        <footer class="product-footer">
+                           <a href="#" class="product-footer-btn product-view-btn main-popular_products-product-footer-btn">view</a>
+                           <button type="button" class="product-footer-btn product-add-btn main-popular_products-product-footer-btn">add to cart</button>
+                           <button type="button" class="product-footer-btn product-mark-btn main-popular_products-product-footer-btn" aria-label="mark">
+                              <svg class="product-mark-btn-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M16 2H8a3.003 3.003 0 0 0-3 3v16.5a.5.5 0 0 0 .75.434l6.25-3.6l6.25 3.6A.5.5 0 0 0 19 21.5V5a3.003 3.003 0 0 0-3-3m2 18.635l-5.75-3.312a.51.51 0 0 0-.5 0L6 20.635V5a2.003 2.003 0 0 1 2-2h8a2.003 2.003 0 0 1 2 2z"/></svg>
+                           </button>
+                        </footer>
+                     </div>
+                  </article>
+               </div>
+            </div>
+         </section>
+
+         <section class="main-special_sale">
+            <div class="main-special_sale-panel-cont">
+               <div class="main-special_sale-panel-cont-bg"></div>
+               <div class="special_sale-panel-title-cont-wrapper">
+                  <div class="main-special_sale-panel-title-cont">
+                     <h2 class="main-special_sale-panel-title" >Special Sale</h2>
+                     <div class="main-special_sale-panel-counter-cont">
+                        <div class="main-special_sale-panel-counter-wrapper">
+                           <time class="main-special_sale-panel-counter" datetime="2024-06-01T10:00">
+                              00d:00h:00m:00s
+                           </time>
+                           <div class="main-special_sale-panel-counter-progress" role="progressbar" aria-label="Remaining time of special sale" data-max="100" data-value="50" aria-valuemax="100" aria-valuetext="50" >
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <aside class="main-special_sale-panel-title-points-cont">
+                     <ul class="main-special_sale-panel-title-points-list">
+                        <li class="main-special_sale-panel-title-points-item">
+                           <span class="main-special_sale-panel-title-points-item-text">
+                              Winter Clothes
+                           </span>
+                           <span class="main-special_sale-panel-title-points-item-discount-badge">
+                              %15
+                           </span>
+                        </li>
+                        <li class="main-special_sale-panel-title-points-item">
+                           <span class="main-special_sale-panel-title-points-item-text">
+                              Gaming Devices
+                           </span>
+                           <span class="main-special_sale-panel-title-points-item-discount-badge">
+                              %25
+                           </span>
+                        </li>
+                        <li class="main-special_sale-panel-title-points-item">
+                           <span class="main-special_sale-panel-title-points-item-text">
+                              Smartphones
+                           </span>
+                           <span class="main-special_sale-panel-title-points-item-discount-badge">
+                              %10
+                           </span>
+                        </li>
+                     </ul>
+                  </aside>
+               </div>
+               <div id="main-special_sale-panel-item-1" class="main-special_sale-panel-item main-special_sale-panel-item-1" >
+                  <a class="main-special_sale-panel-item-link" href="#" aria-label="winter clothes">
+                     <h3 id="main-special_sale-panel-item-1-title" class="main-special_sale-panel-item-title main-special_sale-panel-item-1-title">
+                        Winter Clothes
+                     </h3>
+                     <img
+                     class="main-special_sale-panel-item-img"
+                     srcset=
+                     "
+                     ./assets/images/backgrounds/special-sale/winter-clothes-original-480-min.png,
+                     ./assets/images/backgrounds/special-sale/winter-clothes-original-960-min.png 2x
+                     "
+                     src="./assets/images/backgrounds/special-sale/winter-clothes-original-960-min.png"
+                     alt="a set of women's winter clothes with a blue background and snowflakes">
+                  </a>
+               </div>
+               <div id="main-special_sale-panel-item-2" class="main-special_sale-panel-item main-special_sale-panel-item-2" >
+                  <a class="main-special_sale-panel-item-link" href="#" aria-label="gaming devices">
+                     <h3 id="main-special_sale-panel-item-2-title" class="main-special_sale-panel-item-title main-special_sale-panel-item-2-title">
+                        Gaming Devices
+                     </h3>
+                     <img
+                     class="main-special_sale-panel-item-img"
+                     srcset=
+                     "
+                     ./assets/images/backgrounds/special-sale/keyboard-1025.jpg,
+                     ./assets/images/backgrounds/special-sale/keyboard-1367.jpg 1.5x
+                     "
+                     src="./assets/images/backgrounds/special-sale/keyboard-1367.jpg"
+                     alt="a gaming keyboard with rgb lights, a gaming mouse and a gamepad on top of image, with a dark image and rgb ligh reflections"
+                     >
+                  </a>
+                  <div class="img-attr"><a href="https://www.freepik.com/free-photo/high-angle-blue-keyboard-with-lights_31590140.htm#fromView=search&page=1&position=7&uuid=5d0b6ab3-3646-4086-8921-597d1123382d">Image by freepik</a></div>
+               </div>
+               <div id="main-special_sale-panel-item-3" class="main-special_sale-panel-item main-special_sale-panel-item-3" >
+                  <a class="main-special_sale-panel-item-link" href="#" aria-label="smartphones">
+                     <h3 id="main-special_sale-panel-item-3-title" class="main-special_sale-panel-item-title main-special_sale-panel-item-3-title">
+                        Smartphones
+                     </h3>
+                     <img
+                     class="main-special_sale-panel-item-img"
+                     srcset=
+                     "
+                     /assets/images/backgrounds/special-sale/iphone-405.png,
+                     /assets/images/backgrounds/special-sale/iphone-810.png 2x
+                     "
+                     src="./assets/images/backgrounds/special-sale/iphone-810.png"
+                     alt=""
+                     >
+                  </a>
+               </div>
+            </div>
+            <article class="main-special_sale-plans-banner">
+               <h3 class="main-special_sale-plans-banner-title">
+                  Special Subscription
+               </h3>
+               <hr class="full-separator">
+               <div class="main-special_sale-plans-banner-plans-wrapper">
+                  <article class="main-special_sale-plans-banner-plan">
+                     <h4 class="main-special_sale-plans-banner-plan-title">Basic</h4>
+                     <ul class="main-special_sale-plans-banner-plan-list">
+                        <li class="main-special_sale-plans-banner-plan-list-item main-special_sale-plans-banner-plan-list-item-basic">
+                           free delivery
+                        </li>
+                        <li class="main-special_sale-plans-banner-plan-list-item main-special_sale-plans-banner-plan-list-item-basic">
+                           free delivery
+                        </li>
+                        <li class="main-special_sale-plans-banner-plan-list-item main-special_sale-plans-banner-plan-list-item-basic">
+                           free delivery
+                        </li>
+                        <li class="main-special_sale-plans-banner-plan-list-item main-special_sale-plans-banner-plan-list-item-basic">
+                           free delivery
+                        </li>
+                        <li class="main-special_sale-plans-banner-plan-list-item main-special_sale-plans-banner-plan-list-item-basic">
+                           free delivery
+                        </li>
+                        <li class="main-special_sale-plans-banner-plan-list-item main-special_sale-plans-banner-plan-list-item-basic">
+                           free delivery
+                        </li>
+                     </ul>
+                  </article>
+                  <article class="main-special_sale-plans-banner-plan">
+                     <h4 class="main-special_sale-plans-banner-plan-title">Premium</h4>
+                     <ul class="main-special_sale-plans-banner-plan-list">
+                        <li class="main-special_sale-plans-banner-plan-list-item main-special_sale-plans-banner-plan-list-item-prem">
+                           free delivery
+                        </li>
+                        <li class="main-special_sale-plans-banner-plan-list-item main-special_sale-plans-banner-plan-list-item-prem">
+                           free delivery
+                        </li>
+                        <li class="main-special_sale-plans-banner-plan-list-item main-special_sale-plans-banner-plan-list-item-prem">
+                           free delivery
+                        </li>
+                        <li class="main-special_sale-plans-banner-plan-list-item main-special_sale-plans-banner-plan-list-item-prem">
+                           free delivery
+                        </li>
+                        <li class="main-special_sale-plans-banner-plan-list-item main-special_sale-plans-banner-plan-list-item-prem">
+                           free delivery
+                        </li>
+                        <li class="main-special_sale-plans-banner-plan-list-item main-special_sale-plans-banner-plan-list-item-prem">
+                           free delivery
+                        </li>
+                     </ul>
+                  </article>
+               </div>
+               <a href="#" class="main-special_sale-plans-banner-btn">Subscribe Now</a>
+            </article>
+         </section>
+         <section id="main-new_products-grid" class="main-new_products-grid">
+            <div class="main-new_products-grid-spiral-bg">
+               <svg id="eKwdghqBJI61" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"><defs><linearGradient id="eKwdghqBJI62-stroke" x1="0.084066" y1="0.511818" x2="0.80969" y2="0.202886" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)"><stop id="eKwdghqBJI62-stroke-0" offset="0%" stop-color="#3929e4"/><stop id="eKwdghqBJI62-stroke-1" offset="25%" stop-color="#9349c9"/><stop id="eKwdghqBJI62-stroke-2" offset="100%" stop-color="#e3c791"/></linearGradient></defs><path d="M19.8293,26.297976q-2.735742-2.40386,13.255598-10.832581c15.99134-8.428721,26.844009-2.033816,10.834822,26.629578s-47.73469,93.992133-10.834822,65.557538s49.220965-75.035736,90.846333-65.557538s89.674258,116.989632,109.234733,107.905026s19.535587-20.661746,4.891439-30.931828C210.560973,99.78466,64.811059,192.710597,64.811059,192.710597c-36.560339,24.096587-30.806678,36.065293,39.997109,27.676378c107.748883-18.994758,157.944705-25.599799,133.249235,0s-47.810074,42.449261-25.472275,44.765072q74.751527-6.053295,64.723035,8.104575" transform="translate(.000004 0.000001)" fill="none" stroke="url(#eKwdghqBJI62-stroke)" stroke-width="2"/></svg>
+            </div>
+            <div class="main-new_products-grid-title-cont lined-title-cont">
+               <h2 class="main-new_products-grid-title" >
+                  New Products
+               </h2>
+               <hr class="right-separator">
+            </div>
+         </section>
+         <!-- <hr class="full-separator"> -->
+         <section class="main-features ">
+            <h2 class="hidden-heading" >Minicommerce Advantages</h2>
+            <div class="main-features-bar-wrapper">
+               <div class="main-features-bar">
+                  <div class="main-features-bar-item main-features-bar-item-1">
+                     <h3 class="main-features-bar-item-title main-features-bar-item-title-1">
+                        Fast Delivery
+                     </h3>
+                  </div>
+                  <div class="main-features-bar-item main-features-bar-item-2">
+                     <h3 class="main-features-bar-item-title main-features-bar-item-title-2">
+                        HighQuality
+                     </h3>
+                  </div>
+                  <div class="main-features-bar-item main-features-bar-item-3">
+                     <h3 class="main-features-bar-item-title main-features-bar-item-title-3">
+                        Wide Variety
+                     </h3>
+                  </div>
+                  <button class="main-features-bar-btn">
+                     Shop Now
+                  </button>
+               </div>
+               <div class="main-features-bar-bubble-1"></div>
+               <div class="main-features-bar-bubble-2"></div>
+               <div class="main-features-bar-bubble-3"></div>
+            </div>
+         </section>
+         <section class="main-contact-faq">
+            <h2 class="hidden-heading" >Contact us & Freequently Asked Questions</h2>
+            <div class="main-contact-faq-contact-cont">
+               <div class="main-contact-faq-contact-title-cont lazy-bg_image" data-src="assets/images/backgrounds/contact-pattern.png">
+                  <h3 class="main-contact-faq-contact-title">Contact Us</h3>
+               </div>
+               <form class="main-contact-faq-contact-form" action="#">
+                  <fieldset class="main-contact-faq-contact-form-fieldset">
+                     <legend class="main-contact-faq-contact-form-fieldset-legend">
+                        Contact Information
+                     </legend>
+                     <div class="main-contact-faq-contact-form-email-cont form-inp-cont">
+                        <label for="main-contact-user-email-inp" class="main-contact-faq-contact-form-email-label form-label">   
+                           Email
+                        </label>
+                        <input
+                        type="email"
+                        name="user_email"
+                        id="main-contact-user-email-inp"
+                        class="main-contact-faq-contact-form-email-inp contact-inp"
+                        autocomplete="email"
+                        inputmode="email"
+                        spellcheck="false"
+                        required
+                        aria-required="true"
+                        >
+                        <div role="alert" class="main-contact-faq-contact-form-email-inp-errors-cont">
+                           <p class="main-contact-faq-contact-form-email-inp-error-text">
+                              Error : Invalid Email Address
+                           </p>
+                        </div>
+                     </div>
+                     <div class="main-contact-faq-contact-form-message-cont form-inp-cont">
+                        <label for="main-contact-user-message-inp" class="main-contact-faq-contact-form-message-label form-label">
+                           Message
+                        </label>
+                        <textarea
+                        name="user_message"
+                        id="main-contact-user-message-inp"
+                        class="main-contact-faq-contact-form-message-inp contact-inp"
+                        spellcheck="false"
+                        >
+                        </textarea>
+                     </div>
+                  </fieldset>
+                  <button type="submit" class="main-contact-faq-contact-form-btn main-contact-faq-contact-form-send-btn">
+                     <span class="main-contact-faq-contact-form-send-btn-text">
+                        Send
+                     </span>
+                  </button>
+               </form>
+            </div>
+            <div class="main-contact-faq-faqs-cont">
+               <div class="main-contact-faq-faqs-title-cont lazy-bg_image">
+                  <h3 class="main-contact-faq-faqs-title">
+                     <abbr title="Freequently Asked Questions">
+                        FAQs
+                     </abbr>
+                  </h3>
+               </div>
+               <div class="main-contact-faq-faqs-accordion">
+                  <div class="main-contact-faq-faqs-accordion-item" data-isactive="false">
+                     <button
+                     type="button"
+                     class="main-contact-faq-faqs-accordion-item-btn"
+                     aria-expanded="false"
+                     >
+                        How can receive discount codes?
+                     </button>
+                     <div
+                     class="main-contact-faq-faqs-accordion-item-description"
+                     aria-hidden="true"
+                     data-isopened="false"
+                     >
+                     <p class="main-contact-faq-faqs-accordion-item-description-text">
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eaque eveniet libero quibusdam consequuntur tempora delectus.
+                     </p>
+                     </div>
+                  </div>
+                  <div class="main-contact-faq-faqs-accordion-item" data-isactive="false">
+                     <button
+                     type="button"
+                     class="main-contact-faq-faqs-accordion-item-btn"
+                     aria-expanded="false"
+                     >
+                        When will we receive our purchased goods?
+                     </button>
+                     <div
+                     class="main-contact-faq-faqs-accordion-item-description"
+                     aria-hidden="true"
+                     data-isopened="false"
+                     >
+                        <p class="main-contact-faq-faqs-accordion-item-description-text">
+                           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad enim dolor sit adipisci magni? Aspernatur ducimus id ex quia totam mollitia voluptatum. Fuga accusantium porro impedit ipsam molestias corporis fugiat voluptatum sequi magnam animi? Nam nulla quod, enim deserunt aut error, vel sapiente necessitatibus hic architecto tempora, corrupti repellat animi corporis. Beatae corrupti modi suscipit labore ex, iusto numquam doloremque laudantium fugiat et aliquid blanditiis minus qui, quisquam ea eaque adipisci quo at aperiam! Non mollitia explicabo earum dicta, voluptatem omnis reprehenderit vitae voluptate dolor, voluptas quo et delectus ipsam consequatur quia eius architecto nobis quasi quis cumque repudiandae eaque vel minus beatae. Tempora, est ipsum doloribus tempore omnis molestiae iusto! Provident odio quas voluptatem, consequatur maxime similique! Placeat soluta nam optio sint? Tempora incidunt laudantium, laboriosam nesciunt nulla atque ducimus libero praesentium reiciendis! Odio harum facilis quam vel, officiis doloremque sed aliquam nisi nulla asperiores, incidunt, impedit sunt inventore tenetur nemo ducimus necessitatibus cupiditate facere vitae voluptatum temporibus quia labore explicabo! Quam dolore quasi animi possimus, repellendus assumenda dignissimos nisi molestiae quidem adipisci quae. Nulla voluptate ea ipsam natus veritatis consequuntur doloribus eveniet molestias autem, accusamus corporis optio pariatur debitis assumenda fugit dolorum excepturi nemo minus eligendi porro explicabo?
+                           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad enim dolor sit adipisci magni? Aspernatur ducimus id ex quia totam mollitia voluptatum. Fuga accusantium porro impedit ipsam molestias corporis fugiat voluptatum sequi magnam animi? Nam nulla quod, enim deserunt aut error, vel sapiente necessitatibus hic architecto tempora, corrupti repellat animi corporis. Beatae corrupti modi suscipit labore ex, iusto numquam doloremque laudantium fugiat et aliquid blanditiis minus qui, quisquam ea eaque adipisci quo at aperiam! Non mollitia explicabo earum dicta, voluptatem omnis reprehenderit vitae voluptate dolor, voluptas quo et delectus ipsam consequatur quia eius architecto nobis quasi quis cumque repudiandae eaque vel minus beatae. Tempora, est ipsum doloribus tempore omnis molestiae iusto! Provident odio quas voluptatem, consequatur maxime similique! Placeat soluta nam optio sint? Tempora incidunt laudantium, laboriosam nesciunt nulla atque ducimus libero praesentium reiciendis! Odio harum facilis quam vel, officiis doloremque sed aliquam nisi nulla asperiores, incidunt, impedit sunt inventore tenetur nemo ducimus necessitatibus cupiditate facere vitae voluptatum temporibus quia labore explicabo! Quam dolore quasi animi possimus, repellendus assumenda dignissimos nisi molestiae quidem adipisci quae. Nulla voluptate ea ipsam natus veritatis consequuntur doloribus eveniet molestias autem, accusamus corporis optio pariatur debitis assumenda fugit dolorum excepturi nemo minus eligendi porro explicabo?
+                        </p>
+                     </div>
+                  </div>
+                  <div class="main-contact-faq-faqs-accordion-item" data-isactive="false">
+                     <button
+                     type="button"
+                     class="main-contact-faq-faqs-accordion-item-btn"
+                     aria-expanded="false"
+                     data-isactive="false"
+                     >
+                        How is support for Returning the purchased item?
+                     </button>
+                     <div
+                     class="main-contact-faq-faqs-accordion-item-description"
+                     aria-hidden="true"
+                     data-isopened="false"
+                     >
+                        <p class="main-contact-faq-faqs-accordion-item-description-text">
+                           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad enim dolor sit adipisci magni? Aspernatur ducimus id ex quia totam mollitia voluptatum. Fuga accusantium porro impedit ipsam molestias corporis fugiat voluptatum sequi magnam animi? Nam nulla quod, enim deserunt aut error, vel sapiente necessitatibus hic architecto tempora, corrupti repellat animi corporis. Beatae corrupti modi suscipit labore ex, iusto numquam doloremque laudantium fugiat et aliquid blanditiis minus qui, quisquam ea eaque adipisci quo at aperiam! Non mollitia explicabo earum dicta, voluptatem omnis reprehenderit vitae voluptate dolor, voluptas quo et delectus ipsam consequatur quia eius architecto nobis quasi quis cumque repudiandae eaque vel minus beatae. Tempora, est ipsum doloribus tempore omnis molestiae iusto! Provident odio quas voluptatem, consequatur maxime similique! Placeat soluta nam optio sint? Tempora incidunt laudantium, laboriosam nesciunt nulla atque ducimus libero praesentium reiciendis! Odio harum facilis quam vel, officiis doloremque sed aliquam nisi nulla asperiores, incidunt, impedit sunt inventore tenetur nemo ducimus necessitatibus cupiditate facere vitae voluptatum temporibus quia labore explicabo! Quam dolore quasi animi possimus, repellendus assumenda dignissimos nisi molestiae quidem adipisci quae. Nulla voluptate ea ipsam natus veritatis consequuntur doloribus eveniet molestias autem, accusamus corporis optio pariatur debitis assumenda fugit dolorum excepturi nemo minus eligendi porro explicabo?
+                           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad enim dolor sit adipisci magni? Aspernatur ducimus id ex quia totam mollitia voluptatum. Fuga accusantium porro impedit ipsam molestias corporis fugiat voluptatum sequi magnam animi? Nam nulla quod, enim deserunt aut error, vel sapiente necessitatibus hic architecto tempora, corrupti repellat animi corporis. Beatae corrupti modi suscipit labore ex, iusto numquam doloremque laudantium fugiat et aliquid blanditiis minus qui, quisquam ea eaque adipisci quo at aperiam! Non mollitia explicabo earum dicta, voluptatem omnis reprehenderit vitae voluptate dolor, voluptas quo et delectus ipsam consequatur quia eius architecto nobis quasi quis cumque repudiandae eaque vel minus beatae. Tempora, est ipsum doloribus tempore omnis molestiae iusto! Provident odio quas voluptatem, consequatur maxime similique! Placeat soluta nam optio sint? Tempora incidunt laudantium, laboriosam nesciunt nulla atque ducimus libero praesentium reiciendis! Odio harum facilis quam vel, officiis doloremque sed aliquam nisi nulla asperiores, incidunt, impedit sunt inventore tenetur nemo ducimus necessitatibus cupiditate facere vitae voluptatum temporibus quia labore explicabo! Quam dolore quasi animi possimus, repellendus assumenda dignissimos nisi molestiae quidem adipisci quae. Nulla voluptate ea ipsam natus veritatis consequuntur doloribus eveniet molestias autem, accusamus corporis optio pariatur debitis assumenda fugit dolorum excepturi nemo minus eligendi porro explicabo?
+                        </p>
+                     </div>
+                  </div>
+                  <div class="main-contact-faq-faqs-accordion-item" data-isactive="false">
+                     <button
+                     type="button"
+                     class="main-contact-faq-faqs-accordion-item-btn"
+                     aria-expanded="false"
+                     data-isactive="false"
+                     >
+                        How can we trust product suppliers?
+                     </button>
+                     <div
+                     class="main-contact-faq-faqs-accordion-item-description"
+                     aria-hidden="true"
+                     data-isopened="false"
+                     >
+                        <p class="main-contact-faq-faqs-accordion-item-description-text">
+                           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad enim dolor sit adipisci magni? Aspernatur ducimus id ex quia totam mollitia voluptatum. Fuga accusantium porro impedit ipsam molestias corporis fugiat voluptatum sequi magnam animi? Nam nulla quod, enim deserunt aut error, vel sapiente necessitatibus hic architecto tempora, corrupti repellat animi corporis. Beatae corrupti modi suscipit labore ex, iusto numquam doloremque laudantium fugiat et aliquid blanditiis minus qui, quisquam ea eaque adipisci quo at aperiam! Non mollitia explicabo earum dicta, voluptatem omnis reprehenderit vitae voluptate dolor, voluptas quo et delectus ipsam consequatur quia eius architecto nobis quasi quis cumque repudiandae eaque vel minus beatae. Tempora, est ipsum doloribus tempore omnis molestiae iusto! Provident odio quas voluptatem, consequatur maxime similique! Placeat soluta nam optio sint? Tempora incidunt laudantium, laboriosam nesciunt nulla atque ducimus libero praesentium reiciendis! Odio harum facilis quam vel, officiis doloremque sed aliquam nisi nulla asperiores, incidunt, impedit sunt inventore tenetur nemo ducimus necessitatibus cupiditate facere vitae voluptatum temporibus quia labore explicabo! Quam dolore quasi animi possimus, repellendus assumenda dignissimos nisi molestiae quidem adipisci quae. Nulla voluptate ea ipsam natus veritatis consequuntur doloribus eveniet molestias autem, accusamus corporis optio pariatur debitis assumenda fugit dolorum excepturi nemo minus eligendi porro explicabo?
+                           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad enim dolor sit adipisci magni? Aspernatur ducimus id ex quia totam mollitia voluptatum. Fuga accusantium porro impedit ipsam molestias corporis fugiat voluptatum sequi magnam animi? Nam nulla quod, enim deserunt aut error, vel sapiente necessitatibus hic architecto tempora, corrupti repellat animi corporis. Beatae corrupti modi suscipit labore ex, iusto numquam doloremque laudantium fugiat et aliquid blanditiis minus qui, quisquam ea eaque adipisci quo at aperiam! Non mollitia explicabo earum dicta, voluptatem omnis reprehenderit vitae voluptate dolor, voluptas quo et delectus ipsam consequatur quia eius architecto nobis quasi quis cumque repudiandae eaque vel minus beatae. Tempora, est ipsum doloribus tempore omnis molestiae iusto! Provident odio quas voluptatem, consequatur maxime similique! Placeat soluta nam optio sint? Tempora incidunt laudantium, laboriosam nesciunt nulla atque ducimus libero praesentium reiciendis! Odio harum facilis quam vel, officiis doloremque sed aliquam nisi nulla asperiores, incidunt, impedit sunt inventore tenetur nemo ducimus necessitatibus cupiditate facere vitae voluptatum temporibus quia labore explicabo! Quam dolore quasi animi possimus, repellendus assumenda dignissimos nisi molestiae quidem adipisci quae. Nulla voluptate ea ipsam natus veritatis consequuntur doloribus eveniet molestias autem, accusamus corporis optio pariatur debitis assumenda fugit dolorum excepturi nemo minus eligendi porro explicabo?
+                        </p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="contact-faqs-bg">
+               <svg class="contact-faqs-bg-svg" cache-id="23c744dbc5e44ee48698526330fc9d33" id="eqHetv6wluR1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"><defs><linearGradient id="eqHetv6wluR2-fill" x1="0.268617" y1="0.852327" x2="1" y2="0.33149" spreadMethod="pad" gradientUnits="objectBoundingBox" gradientTransform="translate(0 0)"><stop id="eqHetv6wluR2-fill-0" offset="0%" stop-color="#2810e3"/><stop id="eqHetv6wluR2-fill-1" offset="100%" stop-color="#d66efd"/></linearGradient></defs><path d="M88.124659,83.40905q-44.157732,28.348173-29.438488,47.428675q41.431944,67.054334,129.202252,80.683263c87.770308,13.628929-29.438488-81.228421,6.541886-92.131565q35.980374-10.903144,4.906413-55.606033-23.0874-21.806285-111.212063,19.62566Z" transform="translate(.000005 0.000002)" fill="url(#eqHetv6wluR2-fill)" stroke="none" stroke-width="0"/></svg>
+            </div>
+         </section>
+      </main>
+
+      <footer class="main-footer">
+         <div class="footer-inner-wrapper container">
+            <div class="footer-info-cont">
+               <div class="footer-info-about-cont">
+                  <a href="/" class="footer-info-about-logo-link">
+                     <!-- <img
+                     class="footer-info-about-logo-link-img"
+                     src="./assets/logos/mini-commerce-logo-2-cropped.svg"
+                     alt="minicommerce logo home"> -->
+                     <div class="footer-info-about-logo-link-text">
+                        MiniCommerce
+                     </div>
+                  </a>
+                  <p class="footer-info-about-description">
+                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id veniam tempora, mollitia iste ea autem porro eum, dignissimos dolore rem beatae, alias exercitationem similique dicta cum inventore ex cumque ducimus.
+                  </p>
+               </div>
+               <address class="footer-info-address-cont">
+                  <div class="footer-info-address-email-cont">
+                     <a
+                     class="footer-info-address-email-link"
+                     href="mailto:minicommerce@gmail.com"
+                     >
+                        Email :
+                     </a>
+                     <span class="footer-info-address-email-text">
+                        minicommerce@gmail.com
+                     </span>
+                  </div>
+                  <div class="footer-info-address-tel-cont">
+                     <a
+                     class="footer-info-address-tel-link"
+                     href="tel:9999999999"
+                     >
+                        Tel :
+                     </a>
+                     <span class="footer-info-address-tel-text">
+                        999-999-9999
+                     </span>
+                  </div>
+                  <div class="footer-info-address-address-cont">
+                     <a
+                     class="footer-info-address-address-link"
+                     href="https://maps.google.com"
+                     target="_blank"
+                     >
+                        Address :
+                     </a>
+                     <span class="footer-info-address-address-text">
+                        1234 Elm Street<br>
+                        Suite 567<br>
+                        Cityville, State 98765<br>
+                        United States
+                     </span>
+                  </div>
+               </address>
+            </div>
+            <div class="footer-links-cont">
+               <nav class="footer-links-nav" aria-label="footer navigation">
+                  <ul class="footer-links-nav-list">
+                     <li class="footer-links-nav-list-item">
+                        <a href="#" class="footer-links-nav-link">
+                           Footer_Link
+                        </a>
+                     </li>
+                     <li class="footer-links-nav-list-item">
+                        <a href="#" class="footer-links-nav-link">
+                           Footer_Link
+                        </a>
+                     </li>
+                     <li class="footer-links-nav-list-item">
+                        <a href="#" class="footer-links-nav-link">
+                           Footer_Link
+                        </a>
+                     </li>
+                     <li class="footer-links-nav-list-item">
+                        <a href="#" class="footer-links-nav-link">
+                           Footer_Link
+                        </a>
+                     </li>
+                     <li class="footer-links-nav-list-item">
+                        <a href="#" class="footer-links-nav-link">
+                           Footer_Link
+                        </a>
+                     </li>
+                     <li class="footer-links-nav-list-item">
+                        <a href="#" class="footer-links-nav-link">
+                           Footer_Link
+                        </a>
+                     </li>
+                     <li class="footer-links-nav-list-item">
+                        <a href="#" class="footer-links-nav-link">
+                           Footer_Link
+                        </a>
+                     </li>
+                     <li class="footer-links-nav-list-item">
+                        <a href="#" class="footer-links-nav-link">
+                           Footer_Link
+                        </a>
+                     </li>
+                     <li class="footer-links-nav-list-item">
+                        <a href="#" class="footer-links-nav-link">
+                           Footer_Link
+                        </a>
+                     </li>
+                     <li class="footer-links-nav-list-item">
+                        <a href="#" class="footer-links-nav-link">
+                           Footer_Link
+                        </a>
+                     </li>
+                     <li class="footer-links-nav-list-item">
+                        <a href="#" class="footer-links-nav-link">
+                           Footer_Link
+                        </a>
+                     </li>
+                     <li class="footer-links-nav-list-item">
+                        <a href="#" class="footer-links-nav-link">
+                           Footer_Link
+                        </a>
+                     </li>
+                     <li class="footer-links-nav-list-item">
+                        <a href="#" class="footer-links-nav-link">
+                           Footer_Link
+                        </a>
+                     </li>
+                     <li class="footer-links-nav-list-item">
+                        <a href="#" class="footer-links-nav-link">
+                           Footer_Link
+                        </a>
+                     </li>
+                     <li class="footer-links-nav-list-item">
+                        <a href="#" class="footer-links-nav-link">
+                           Footer_Link
+                        </a>
+                     </li>
+                     <li class="footer-links-nav-list-item">
+                        <a href="#" class="footer-links-nav-link">
+                           Footer_Link
+                        </a>
+                     </li>
+                  </ul>
+               </nav>
+            </div>
+            <div class="footer-socials-credits-cont">
+               <div class="footer-socials-credits-social-cont">
+                  <h2 class="footer-socials-credits-social-title">
+                     Follow Us :
+                  </h2>
+                  <nav class="footer-socials-credits-social-nav">
+                     <ul class="footer-socials-credits-social-nav-list">
+                        <li class="footer-socials-credits-social-nav-list-item">
+                           <a href="https://www.instagram.com" class="footer-socials-credits-social-nav-link" aria-label="Instagram page">
+                              <span id="footer-instagram-link-card" class="footer-socials-credits-social-nav-link-card lazy-bg_image" data-bg_img_src="./assets/images/backgrounds/instagram-bg-1587-min.png">
+                              </span>
+                           </a>
+                           <span class="footer-socials-credits-social-nav-link-card-footer">
+                              <svg role="img" aria-label="instagram logo" class="footer-socials-credits-social-nav-link-card-footer-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-19.5036 -32.49725 169.0312 194.9835"><defs><radialGradient fy="578.088" fx="158.429" gradientTransform="matrix(0 -1.98198 1.8439 0 -1031.399 454.004)" gradientUnits="userSpaceOnUse" xlink:href="#a" r="65" cy="578.088" cx="158.429" id="c"/><radialGradient fy="473.455" fx="147.694" gradientTransform="matrix(.17394 .86872 -3.5818 .71718 1648.351 -458.493)" gradientUnits="userSpaceOnUse" xlink:href="#b" r="65" cy="473.455" cx="147.694" id="d"/><linearGradient id="b"><stop stop-color="#3771c8" offset="0"/><stop offset=".128" stop-color="#3771c8"/><stop stop-opacity="0" stop-color="#60f" offset="1"/></linearGradient><linearGradient id="a"><stop stop-color="#fd5" offset="0"/><stop stop-color="#fd5" offset=".1"/><stop stop-color="#ff543e" offset=".5"/><stop stop-color="#c837ab" offset="1"/></linearGradient></defs><path d="M65.033 0C37.891 0 29.953.028 28.41.156c-5.57.463-9.036 1.34-12.812 3.22-2.91 1.445-5.205 3.12-7.47 5.468-4.125 4.282-6.625 9.55-7.53 15.812-.44 3.04-.568 3.66-.594 19.188-.01 5.176 0 11.988 0 21.125 0 27.12.03 35.05.16 36.59.45 5.42 1.3 8.83 3.1 12.56 3.44 7.14 10.01 12.5 17.75 14.5 2.68.69 5.64 1.07 9.44 1.25 1.61.07 18.02.12 34.44.12 16.42 0 32.84-.02 34.41-.1 4.4-.207 6.955-.55 9.78-1.28a27.22 27.22 0 0017.75-14.53c1.765-3.64 2.66-7.18 3.065-12.317.088-1.12.125-18.977.125-36.81 0-17.836-.04-35.66-.128-36.78-.41-5.22-1.305-8.73-3.127-12.44-1.495-3.037-3.155-5.305-5.565-7.624-4.3-4.108-9.56-6.608-15.829-7.512C102.338.157 101.733.027 86.193 0z" fill="url(#c)"/><path d="M65.033 0C37.891 0 29.953.028 28.41.156c-5.57.463-9.036 1.34-12.812 3.22-2.91 1.445-5.205 3.12-7.47 5.468-4.125 4.282-6.625 9.55-7.53 15.812-.44 3.04-.568 3.66-.594 19.188-.01 5.176 0 11.988 0 21.125 0 27.12.03 35.05.16 36.59.45 5.42 1.3 8.83 3.1 12.56 3.44 7.14 10.01 12.5 17.75 14.5 2.68.69 5.64 1.07 9.44 1.25 1.61.07 18.02.12 34.44.12 16.42 0 32.84-.02 34.41-.1 4.4-.207 6.955-.55 9.78-1.28a27.22 27.22 0 0017.75-14.53c1.765-3.64 2.66-7.18 3.065-12.317.088-1.12.125-18.977.125-36.81 0-17.836-.04-35.66-.128-36.78-.41-5.22-1.305-8.73-3.127-12.44-1.495-3.037-3.155-5.305-5.565-7.624-4.3-4.108-9.56-6.608-15.829-7.512C102.338.157 101.733.027 86.193 0z" fill="url(#d)"/><path d="M65.003 17c-13.036 0-14.672.057-19.792.29-5.11.234-8.598 1.043-11.65 2.23-3.157 1.226-5.835 2.866-8.503 5.535-2.67 2.668-4.31 5.346-5.54 8.502-1.19 3.053-2 6.542-2.23 11.65C17.06 50.327 17 51.964 17 65s.058 14.667.29 19.787c.235 5.11 1.044 8.598 2.23 11.65 1.227 3.157 2.867 5.835 5.536 8.503 2.667 2.67 5.345 4.314 8.5 5.54 3.054 1.187 6.543 1.996 11.652 2.23 5.12.233 6.755.29 19.79.29 13.037 0 14.668-.057 19.788-.29 5.11-.234 8.602-1.043 11.656-2.23 3.156-1.226 5.83-2.87 8.497-5.54 2.67-2.668 4.31-5.346 5.54-8.502 1.18-3.053 1.99-6.542 2.23-11.65.23-5.12.29-6.752.29-19.788 0-13.036-.06-14.672-.29-19.792-.24-5.11-1.05-8.598-2.23-11.65-1.23-3.157-2.87-5.835-5.54-8.503-2.67-2.67-5.34-4.31-8.5-5.535-3.06-1.187-6.55-1.996-11.66-2.23-5.12-.233-6.75-.29-19.79-.29zm-4.306 8.65c1.278-.002 2.704 0 4.306 0 12.816 0 14.335.046 19.396.276 4.68.214 7.22.996 8.912 1.653 2.24.87 3.837 1.91 5.516 3.59 1.68 1.68 2.72 3.28 3.592 5.52.657 1.69 1.44 4.23 1.653 8.91.23 5.06.28 6.58.28 19.39s-.05 14.33-.28 19.39c-.214 4.68-.996 7.22-1.653 8.91-.87 2.24-1.912 3.835-3.592 5.514-1.68 1.68-3.275 2.72-5.516 3.59-1.69.66-4.232 1.44-8.912 1.654-5.06.23-6.58.28-19.396.28-12.817 0-14.336-.05-19.396-.28-4.68-.216-7.22-.998-8.913-1.655-2.24-.87-3.84-1.91-5.52-3.59-1.68-1.68-2.72-3.276-3.592-5.517-.657-1.69-1.44-4.23-1.653-8.91-.23-5.06-.276-6.58-.276-19.398s.046-14.33.276-19.39c.214-4.68.996-7.22 1.653-8.912.87-2.24 1.912-3.84 3.592-5.52 1.68-1.68 3.28-2.72 5.52-3.592 1.692-.66 4.233-1.44 8.913-1.655 4.428-.2 6.144-.26 15.09-.27zm29.928 7.97a5.76 5.76 0 105.76 5.758c0-3.18-2.58-5.76-5.76-5.76zm-25.622 6.73c-13.613 0-24.65 11.037-24.65 24.65 0 13.613 11.037 24.645 24.65 24.645C78.616 89.645 89.65 78.613 89.65 65S78.615 40.35 65.002 40.35zm0 8.65c8.836 0 16 7.163 16 16 0 8.836-7.164 16-16 16-8.837 0-16-7.164-16-16 0-8.837 7.163-16 16-16z" fill="#fff"/></svg>
+                           </span>
+                        </li>
+                        <li class="footer-socials-credits-social-nav-list-item">
+                           <a href="https://www.twitter.com" class="footer-socials-credits-social-nav-link" aria-label="Twitter page">
+                              <span id="footer-twitter-link-card" class="footer-socials-credits-social-nav-link-card lazy-bg_image" data-bg_img_src="./assets/images/backgrounds/twitter-bg-1587-min.png">
+                              </span>
+                           </a>
+                           <span class="footer-socials-credits-social-nav-link-card-footer">
+                              <svg role="img" aria-label="twitter logo" class="footer-socials-credits-social-nav-link-card-footer-icon" version="1.1" id="svg5" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1668.56 1221.19" style="enable-background:new 0 0 1668.56 1221.19;" xml:space="preserve"><style type="text/css">.st0{stroke:#FFFFFF;stroke-miterlimit:10;}.st1{fill:#FFFFFF;}</style><g><circle class="st0" cx="834.28" cy="610.6" r="481.33"/><g id="layer1" transform="translate(52.390088,-25.058597)"><path id="path1009" class="st1" d="M485.39,356.79l230.07,307.62L483.94,914.52h52.11l202.7-218.98l163.77,218.98h177.32L836.82,589.6l215.5-232.81h-52.11L813.54,558.46L662.71,356.79H485.39z M562.02,395.17h81.46l359.72,480.97h-81.46L562.02,395.17z"/></g></g></svg>
+                           </span>
+                        </li>
+                        <li class="footer-socials-credits-social-nav-list-item">
+                           <a href="https://www.youtube.com" class="footer-socials-credits-social-nav-link" aria-label="Youtube channel">
+                              <span id="footer-youtube-link-card" class="footer-socials-credits-social-nav-link-card lazy-bg_image" data-bg_img_src="./assets/images/backgrounds/youtube-bg-1587-min.png">
+                              </span>
+                           </a>
+                           <span class="footer-socials-credits-social-nav-link-card-footer">
+                              <svg role="img" aria-label="Youtube logo" class="footer-socials-credits-social-nav-link-card-footer-icon" xmlns="http://www.w3.org/2000/svg" viewBox="-35.20005 -41.33325 305.0671 247.9995"><path d="M229.763 25.817c-2.699-10.162-10.65-18.165-20.748-20.881C190.716 0 117.333 0 117.333 0S43.951 0 25.651 4.936C15.553 7.652 7.6 15.655 4.903 25.817 0 44.236 0 82.667 0 82.667s0 38.429 4.903 56.85C7.6 149.68 15.553 157.681 25.65 160.4c18.3 4.934 91.682 4.934 91.682 4.934s73.383 0 91.682-4.934c10.098-2.718 18.049-10.72 20.748-20.882 4.904-18.421 4.904-56.85 4.904-56.85s0-38.431-4.904-56.85" fill="red"/><path d="M93.333 117.559l61.333-34.89-61.333-34.894z" fill="#fff"/></svg>
+                           </span>
+                        </li>
+                     </ul>
+                  </nav>
+               </div>
+               <nav class="footer-socials-credits-credits-cont">
+                  <div id="footer-paypal-link" class="footer-socials-credits-credits-item">
+                     <a href="https://www.paypal.com" target="_blank" class="footer-socials-credits-credits-item-link">
+                     </a>
+                  </div>
+                  <div id="footer-mastercard-link" class="footer-socials-credits-credits-item">
+                     <a href="https://www.mastercard.com" target="_blank" class="footer-socials-credits-credits-item-link">
+                     </a>
+                  </div>
+                  <div id="footer-visa-link" class="footer-socials-credits-credits-item">
+                     <a href="https://usa.visa.com" target="_blank" class="footer-socials-credits-credits-item-link">
+                     </a>
+                  </div>
+               </nav>
+            </div>
+         </div>
+         <div class="footer-copyright-cont">
+            <p class="footer-copyright-text">
+               Copyright 2024 &copy; Parsa Farahani. All rights reserved.
+            </p>
+         </div>
+      </footer>
+      <button class="back_to_top-btn centered">
+         <svg class="back_to_top-btn-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024"><path fill="currentColor" d="M104.704 685.248a64 64 0 0 0 90.496 0l316.8-316.8l316.8 316.8a64 64 0 0 0 90.496-90.496L557.248 232.704a64 64 0 0 0-90.496 0L104.704 594.752a64 64 0 0 0 0 90.496"/></svg>
+      </button>
+      <template id="icons-template">
+         <svg class="product-info-rating-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentcolor" fill-rule="evenodd" d="M12.908 1.581a1 1 0 0 0-1.816 0l-2.87 6.22l-6.801.807a1 1 0 0 0-.562 1.727l5.03 4.65l-1.335 6.72a1 1 0 0 0 1.469 1.067L12 19.426l5.977 3.346a1 1 0 0 0 1.47-1.068l-1.335-6.718l5.029-4.651a1 1 0 0 0-.562-1.727L15.777 7.8z" clip-rule="evenodd"/></svg>
+         <!-- <svg class="progress-ring product-info-rating-icon" viewBox="0 0 120 120"><circle class="progress-ring__circle" stroke-width="15" fill="transparent" r="52" cx="60" cy="60" /></svg> -->
+         <svg class="product-mark-btn-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="M16 2H8a3.003 3.003 0 0 0-3 3v16.5a.5.5 0 0 0 .75.434l6.25-3.6l6.25 3.6A.5.5 0 0 0 19 21.5V5a3.003 3.003 0 0 0-3-3m2 18.635l-5.75-3.312a.51.51 0 0 0-.5 0L6 20.635V5a2.003 2.003 0 0 1 2-2h8a2.003 2.003 0 0 1 2 2z"/></svg>
+         <svg class="products-grid-row-prev-btn-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024"><path fill="currentColor" d="M685.248 104.704a64 64 0 0 1 0 90.496L368.448 512l316.8 316.8a64 64 0 0 1-90.496 90.496L232.704 557.248a64 64 0 0 1 0-90.496l362.048-362.048a64 64 0 0 1 90.496 0"/></svg>
+         <svg class="products-grid-row-next-btn-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024"><path fill="currentColor" d="M338.752 104.704a64 64 0 0 0 0 90.496l316.8 316.8l-316.8 316.8a64 64 0 0 0 90.496 90.496l362.048-362.048a64 64 0 0 0 0-90.496L429.248 104.704a64 64 0 0 0-90.496 0"/></svg>
+      </template>
+   </body>
+</html>

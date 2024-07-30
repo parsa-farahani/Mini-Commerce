@@ -1,0 +1,37 @@
+:root {
+   --product-info-userinfo-txt: rgba(49, 49, 49, 0.9);
+   --product-models-check-border: 1px solid rgba(40, 40, 40, .8);
+   --product-models-check-color: rgba(91, 83, 255, 1);
+   --product-info-footer-btns-cont-border: 1px solid rgba(40, 40, 40, 0.4);
+   --product-info-footer-btns-bg-hover: rgba(0, 0, 0, 0.07);
+   --product-info-footer-btns-color: rgba(58, 58, 58, 0.8);
+   --product-info-footer-btns-color-hover: rgb(59, 49, 240);
+   --product-main-provider-cont-bg: linear-gradient(-135deg, rgba(24, 174, 201, 0.8), rgba(104, 88, 255, 0.8));
+   --more-details-showmore-gradient: linear-gradient(0deg, rgba(219, 221, 240, 1), rgba(219, 221, 240, 0));
+   --all-providers-provider-cont-bg: rgb(125, 127, 211);
+   --comments-comment-bg: rgb(125, 127, 211);
+   --comments-comment-date-txt: rgba(0, 0, 0, 0.7);
+   --comments-comment-reply-btn-bg: rgba(20, 20, 20, .8);
+   --comments-comment-reply-btn-bg-hover: rgba(20, 20, 20, .7);
+
+}
+
+.darktheme {
+   --product-info-userinfo-txt: rgba(128, 128, 128, 0.9);
+   --product-models-check-border: 1px solid rgba(255, 255, 255, 0.6);
+   --product-models-check-color: rgba(255, 229, 80, 1);
+   --product-info-footer-btns-cont-border: 1px solid rgba(128, 128, 128, 0.2);
+   --product-info-footer-btns-bg-hover: rgba(255, 255, 255, .05);
+   --product-info-footer-btns-color: rgba(128, 128, 128, 0.8);
+   --product-info-footer-btns-color-hover: rgb(255, 190, 50);
+   /* --product-main-provider-cont-bg: linear-gradient(-135deg, rgba(24, 174, 201, 0.2), rgba(104, 88, 255, 0.2)); */
+   --product-main-provider-cont-bg: linear-gradient(-135deg, rgba(24, 174, 201, 0.2), rgba(104, 88, 255, 0.2));
+   --more-details-showmore-gradient: linear-gradient(0deg, rgba(34, 34, 34, 1), rgba(34, 34, 34, 0));
+   --all-providers-provider-cont-bg: rgba(53, 53, 53, 0.877);
+   --comments-comment-bg: rgb(51, 51, 51);
+   --comments-comment-date-txt: rgba(255, 255, 255, .5);
+   --comments-comment-reply-btn-bg: rgba(20, 20, 20, .5);
+   --comments-comment-reply-btn-bg-hover: rgba(20, 20, 20, .4);
+
+   /* --comments-co */
+}

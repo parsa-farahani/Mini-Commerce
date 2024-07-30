@@ -1,0 +1,106 @@
+:root {
+   /* ---- Global Elements ---- */
+   --main-theme-bg: rgb(219, 221, 240);
+   --main-theme-txt: rgba(40, 40, 40, 1);
+   --main-theme-txt-50: rgba(40, 40, 40, .5);
+   --main-theme-txt-25: rgba(40, 40, 40, .25);
+   --global-search-inp-bg: rgb(172, 175, 219);
+   --global-search-inp-txt: var(--main-theme-txt);
+   --global-search-inp-placeholder-txt: rgba(30, 30, 30, 0.7);
+   --global-search-inp-btn-bg: rgb(91, 83, 255);
+   --global-search-inp-btn-bg-hover: rgb(65, 58, 214);
+   --global-search-inp-btn-txt: rgba(255, 255, 255, .8);
+   --global-search-inp-btn-txt-hover: rgba(255, 255, 255, .8);
+   --main-top-nav-link-bg: transparent;
+   --main-top-nav-link-bg-hover: rgba(255, 255, 255, .7);
+   --main-top-nav-link-shw-hover: inset 0 1px 4px rgba(0, 0, 0, 0.3);
+   --main-top-nav-link-txt: var(--main-theme-txt);
+   --main-top-nav-link-txt-hover: var(--main-theme-txt);
+   --nav-menu-bg: rgb(219, 221, 240);
+   --nav-menu-txt: rgb(34, 30, 153);
+   --nav-menu-filter-hover: brightness(.9);
+   --footer-bg: rgb(155, 161, 219);
+   --footer-txt: rgb(30, 30, 30);
+   --footer-address-bg: rgb(62, 70, 145);
+   --footer-address-txt: rgba(255, 255, 255, 0.767);
+   --footer-address-link-txt: rgb(255, 255, 255);
+   --footer-link-txt: rgb(30, 30, 30);
+   --footer-link-txt-hover: rgb(15, 15, 15);
+   --footer-link-txt-decoration-hover: rgb(15, 15, 15);
+   --footer-follow-us-border-color: rgba(20, 20, 20, 0.521);
+   --footer-credits-bg: rgba(255, 255, 255, 1);
+
+   --products-row-left-gradient: linear-gradient(90deg, rgba(219, 221, 240, 1), rgba(219, 221, 240, 3) 40%, rgba(219, 221, 240, 0));
+   --products-row-right-gradient: linear-gradient(-90deg, rgba(219, 221, 240, 1), rgba(219, 221, 240, 3) 40%, rgba(219, 221, 240, 0));
+   --products-row-btns-color: rgba(36, 36, 36, 0.9);
+   --products-row-btns-border: 1px solid rgba(41, 41, 41, .8);
+   --product-bg: rgba(255, 255, 255, .15);
+   --product-info-bg: rgb(36, 36, 36);
+   --product-info-txt: rgba(245, 245, 245, 1);
+   --product-title-txt: rgba(245, 245, 245, 1);
+   --product-title-link-txt: #9690ff;
+   --backtotop-btn-bg: rgb(91, 83, 255);
+   --backtotop-btn-txt: white;
+
+   /* End of -- Global Elements ---- */
+   --base-border-radius: 20px;
+   --base-border: 1px solid rgba(25, 25, 25, 0.4);
+   --base-box-shadow: 0 5px 10px rgba(23, 22, 43, 0.1);
+   --main-theme-purple: rgb(91, 83, 255);
+   --main-theme-orange: rgb(234, 162, 11);
+   /* components */
+   --custom-select-bg-hover: rgba(0,0,0,.05);
+   --custom-select-active-option-bg: rgb(149, 131, 255);
+}
+
+/* this class will be added to <body>, so the global-variables are overrided for body and all of its children */
+.darktheme {
+   /* ---- Global Elements ---- */
+   --main-theme-bg: rgba(25, 25, 25, 1);
+   --main-theme-txt: rgba(245, 245, 245, 1);
+   --main-theme-txt-50: rgba(245, 245, 245, .5);
+   --main-theme-txt-25: rgba(245, 245, 245, .25);
+   --global-search-inp-bg: rgb(56, 58, 83);
+   --global-search-inp-txt: var(--main-theme-txt);
+   --global-search-inp-placeholder-txt: rgba(255,255,255,.5);
+   --global-search-inp-btn-bg: rgba(36, 36, 36, 1);
+   --global-search-inp-btn-bg-hover: rgb(39, 39, 39);
+   --global-search-inp-btn-txt: rgba(91, 83, 255, 1);
+   --global-search-inp-btn-txt-hover: rgba(91, 83, 255, 1);
+   --main-top-nav-link-bg: var(--main-theme-bg);
+   --main-top-nav-link-bg-hover: var(--main-theme-bg);
+   --main-top-nav-link-shw-hover: inset 0 1px 4px rgba(255, 255, 255, .3);
+   --main-top-nav-link-txt: var(--main-theme-txt);
+   --main-top-nav-link-txt-hover: var(--main-theme-txt);
+   --nav-menu-bg: rgb(22, 22, 22);
+   --nav-menu-txt: rgb(177, 174, 255);
+   --nav-menu-filter-hover: brightness(1.7);
+   --footer-bg: rgba(20, 20, 20, 1);
+   --footer-txt: rgba(185, 185, 185, .7);
+   --footer-address-bg: rgb(34, 34, 34);
+   --footer-address-text: var(--footer-txt);
+   --footer-address-link-txt: rgb(123, 117, 255);
+   --footer-link-txt: rgba(255, 255, 255, 0.7);
+   --footer-link-txt-hover: rgba(255,255,255,1);
+   --footer-link-txt-decoration-hover: rgba(255, 255, 255, 0.3);
+   --footer-follow-us-border-color: rgba(255, 255, 255, 0.2);
+   --footer-credits-bg: rgba(255, 255, 255, 1);
+   --products-row-left-gradient: linear-gradient(90deg, rgba(25,25,25, 1), rgba(25,25,25, .3) 40%, rgba(25,25,25, 0));
+   --products-row-right-gradient: linear-gradient(-90deg, rgba(25,25,25, 1), rgba(25,25,25, .3) 40%, rgba(25,25,25, 0));
+   --products-row-btns-color: rgba(255,255,255,.8);
+   --products-row-btns-border: 1px solid white;
+   --product-bg: rgba(255, 255, 255, .15);
+   --product-title-txt: rgba(245, 245, 245, 1);
+   --product-title-link-txt: #9690ff;
+   --product-info-bg: rgba(34, 34, 34, 1);
+   --product-info-txt: rgba(245, 245, 245, 1);
+
+   --backtotop-btn-bg: rgba(91, 83, 255, 0);
+   --backtotop-btn-txt: white;
+   /* End of -- Global Elements ---- */
+   --base-border: 1px solid rgba(255, 255, 255, 0.2);
+   --base-box-shadow: 0 0px 20px rgba(32, 32, 32, 0);
+   /* components */
+   --custom-select-bg-hover: rgba(255, 255, 255, 0.05);
+   --custom-select-active-option-bg: rgb(107, 83, 245);
+}

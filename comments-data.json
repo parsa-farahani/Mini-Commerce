@@ -1,0 +1,216 @@
+[
+   {
+      "product_id": "000001",
+      "comments": [
+         {
+            "id": "000001",
+            "user_id": "000001",
+            "value": "Its good.",
+            "datetime": "2024-04-01T21:08:26.875Z",
+            "isReply": false,
+            "replied_comment_id": "",
+            "replies" : [
+               {
+                  "id": "000002",
+                  "user_id": "000004",
+                  "value": "No its not good.",
+                  "datetime": "2024-04-01T21:08:26.875Z",
+                  "isReply": true,
+                  "replied_comment_id": "000001",
+                  "replies" : [
+                     {
+                        "id": "000003",
+                        "user_id": "000001",
+                        "value": "ITS GOOOOD",
+                        "datetime": "2024-04-01T21:08:26.875Z",
+                        "isReply": true,
+                        "replied_comment_id": "000002",
+                        "replies": []
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "id": "000004",
+            "user_id": "000002",
+            "value": "Its Soooo good.",
+            "datetime": "2024-04-01T21:08:26.875Z",
+            "isReply": false,
+            "replied_comment_id": "",
+            "replies" : [
+               {
+                  "id": "000005",
+                  "user_id": "000001",
+                  "value": "No it's not good.",
+                  "datetime": "2024-04-01T21:08:26.875Z",
+                  "isReply": true,
+                  "replied_comment_id": "000004",
+                  "replies" : []
+               },
+               {
+                  "id": "000006",
+                  "user_id": "000003",
+                  "value": "No it's not good 2x.",
+                  "datetime": "2024-04-01T21:08:26.875Z",
+                  "isReply": true,
+                  "replied_comment_id": "000004",
+                  "replies" : []
+               }
+            ]
+         },
+         {
+            "id": "000007",
+            "user_id": "000003",
+            "value": "Thank you :)))))",
+            "datetime": "2024-04-01T21:08:26.875Z",
+            "isReply": false,
+            "replied_comment_id": "",
+            "replies" : []
+         },
+         {
+            "id": "000008",
+            "user_id": "000001",
+            "value": "It's BULLSHIT ;|||",
+            "datetime": "2024-04-01T21:08:26.875Z",
+            "isReply": false,
+            "replied_comment_id": "",
+            "replies" : []
+         },
+         {
+            "id": "000009",
+            "user_id": "000004",
+            "value": "JUST BUY THIS",
+            "datetime": "2024-04-01T21:08:26.875Z",
+            "isReply": false,
+            "replied_comment_id": "",
+            "replies" : [
+               {
+                  "id": "000010",
+                  "user_id": "000002",
+                  "value": "No it's not so good no no no",
+                  "datetime": "2024-04-01T21:08:26.875Z",
+                  "isReply": true,
+                  "replied_comment_id": "000009",
+                  "replies" : []
+               }
+            ]
+         }
+      ]
+   },
+
+   {
+      "product_id": "000002",
+      "comments": [
+         {
+            "id": "000001",
+            "user_id": "000001",
+            "value": "Its good.",
+            "datetime": "2024-04-01T21:08:26.875Z",
+            "isReply": false,
+            "replied_comment_id": "",
+            "replies" : []
+         }
+      ]
+   },
+
+   {
+      "product_id": "000003",
+      "comments": [
+         {
+            "id": "000001",
+            "user_id": "000001",
+            "value": "Its good. I recomment to buy this product, Tahnk you :))",
+            "datetime": "2024-04-01T21:08:26.875Z",
+            "isReply": false,
+            "replied_comment_id": "",
+            "replies" : [
+               {
+                  "id": "000002",
+                  "user_id": "000004",
+                  "value": "No its not good.",
+                  "datetime": "2024-04-05T21:02:19.875Z",
+                  "isReply": true,
+                  "replied_comment_id": "000001",
+                  "replies" : [
+                     {
+                        "id": "000003",
+                        "user_id": "000001",
+                        "value": "ITS GOOOOD",
+                        "datetime": "2024-04-06T21:10:04.875Z",
+                        "isReply": true,
+                        "replied_comment_id": "000002",
+                        "replies": []
+                     }
+                  ]
+               }
+            ]
+         },
+         {
+            "id": "000004",
+            "user_id": "000002",
+            "value": "Its Soooo good.",
+            "datetime": "2024-04-01T21:08:26.875Z",
+            "isReply": false,
+            "replied_comment_id": "",
+            "replies" : [
+               {
+                  "id": "000005",
+                  "user_id": "000001",
+                  "value": "No it's not good.",
+                  "datetime": "2024-04-01T21:08:26.875Z",
+                  "isReply": true,
+                  "replied_comment_id": "000004",
+                  "replies" : []
+               },
+               {
+                  "id": "000006",
+                  "user_id": "000003",
+                  "value": "No it's not good 2x.",
+                  "datetime": "2024-04-01T21:08:26.875Z",
+                  "isReply": true,
+                  "replied_comment_id": "000004",
+                  "replies" : []
+               }
+            ]
+         },
+         {
+            "id": "000007",
+            "user_id": "000003",
+            "value": "Thank you :)))))",
+            "datetime": "2024-04-01T21:08:26.875Z",
+            "isReply": false,
+            "replied_comment_id": "",
+            "replies" : []
+         },
+         {
+            "id": "000008",
+            "user_id": "000001",
+            "value": "It's BULLSHIT ;|||",
+            "datetime": "2024-04-01T21:08:26.875Z",
+            "isReply": false,
+            "replied_comment_id": "",
+            "replies" : []
+         },
+         {
+            "id": "000009",
+            "user_id": "000004",
+            "value": "JUST BUY THIS",
+            "datetime": "2024-04-01T21:08:26.875Z",
+            "isReply": false,
+            "replied_comment_id": "",
+            "replies" : [
+               {
+                  "id": "000010",
+                  "user_id": "000002",
+                  "value": "No it's not so good no no no",
+                  "datetime": "2024-04-01T21:08:26.875Z",
+                  "isReply": true,
+                  "replied_comment_id": "000009",
+                  "replies" : []
+               }
+            ]
+         }
+      ]
+   }
+]
