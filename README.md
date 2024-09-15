@@ -93,3 +93,14 @@ used Features:
 
 ##credits
 * 
+
+
+
+(done) * Optimize Appearance for all OSs(windows,... ) -> turn "fot-size: rem;" , "padding/margin: px(instead of em/rem)"
+(done) * Optimize CSS Appearance Animations
+(done) * Make Images minified & responsive
+(done) * Debouncing or Throttling:    Rather than triggering animations on every scroll event, debounce or throttle the scroll event listener to reduce the frequency of updates and improve performance.
+(done) * Batch DOM Queries(define variable for elements istead of using query-selection each time):    Instead of querying the DOM multiple times within the scroll event listener, batch your queries outside the listener and store references to the elements you need to animate.
+(done) * Simplify Logic(Reduce function calls and conditions):    Simplify your code by reducing unnecessary conditional checks and function calls. Consider refactoring repetitive code into reusable functions to improve readability and maintainability.
+(done) * Reduce Animation Complexity:    Consider simplifying your animations or reducing the number of animated elements to improve performance. You may also explore alternatives to CSS animations, such as CSS transitions or the Web Animations API, which can offer better performance in some cases.
+(done) * Lazy Loading:    If performance remains a concern, consider lazy loading or deferring animations until the user is closer to the animated elements. This can help reduce the initial load time and improve overall performance.
