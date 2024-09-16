@@ -1,106 +1,87 @@
-** Project Features
+# MiniCommerce - E-Commerce website
 
-*FEATURES:
-- Polished & user friendly UI
-- Responsive Design for mobiles, tablet, desktops and extra large screens
-- Responsive Images (changing quality by the size of user-dvice)
-- products row with navigation ability
-- showcase slider carousel
-- contact form
-- FAQs accordion
-- dark/light themes
-- setting products from .json data by Javascript
-- setting product-comments from .json data by Javascript
-- setting product-information from .json data by Javascript
-- Elmenets Animations(CSS Animations -> controled by Js)
-- Using 'IntersectionObserver' for keyorad users to activate scroll-based Animations
--modern styling features
-- Relative Font-sizes for better accessibility
-* product.html
-- hight detailed setting product info from .json file by Javascript
-- User friendly product image slider
-- comments section with commenting form
-- related products row (it is dynamically created from .json data file)
-- ability to change product 'models' (color, size, ...)
-- Showing all of Providers of this product from .json data file
-* cart.html
+## live preview
 
 
+## Overview
 
-*IMPORTANT :  the elements/datas related to the products in the "new products Grid"(in landing page) and the "product page"(product.html), are dynamically implemented by JavaScript (by fetching data from the .json files in the project directory)
+This ecommerce website project aims to provide a user-friendly, responsive, and accessible platform for selling products. The website features a modern design, dynamic product pages, a shopping cart, and various user-friendly functionalities. The project utilizes HTML, CSS, and JavaScript to create an engaging and efficient shopping experience.
 
--- HTML Considerations are applied on each page
--- Using Scheema.org attributes
---Observing semantic-HTML Principles (using appropriate tags for each specific purpose)
---Observing Accessibility Principles :
----Optimizing Site for Keyboard/Screenreader users
---Observing SEO Principles
---Optimizing images:
----minify image-files sizes
----making images responsive for different viewports
----making images lazy loaded
----Optimizing Javascript scripts of website
----Optimizing scroll-based Animations
---Implementing Animations using 'CSS Animation' & 'Vanilla Javascript'
+## Technologies Used
 
+### Languages
+- **HTML5**
+- **CSS**
+- **JavaScript**
+- **noUiSlider** (library used for a range slider in the product search page)
 
-in this project, i did my best to develop an efficient and accessible e-commerce website, so I tried to optimize this website also for keyboard users, screenreader users, and I tried to observe Accessibility principles adding to all of other works about designing the UI and other functionalities (which will be improved in future)
+### APIs
+- **Fetch API:** Used to load products, comments, and other data.
+- **Intersection Observer API:** Used to control appearance animations of elements.
 
-* accessible 'Categories' menu
-* using aria-label fot more than 1 &lt;nav&gt; s
-* using 'hidden' headings for each section, helping SEO & Accessibility(screenreaders), also keeps the appearance in the way we want for sighted users
+## Key Features
 
-**Note: all of graphical posters and personal logos in this projects, are created by Parsa Farahani, <br>
-for images from another source, I created their 'attribution' elements
-regular icons are used from free resources
-(like: <a>https://iconify.design/</a> and <a>https://fonts.google.com/icons</a>)
+- **User-friendly UI**
+- **Responsive Design** for mobiles, tablets, desktops, and extra-large screens
+- **Responsive Images** with quality adjustment based on user device size
+- **Product rows with navigation**
+- **Showcase slider-carousel** with autoplay and slide buttons
+- **Contact form**
+- **FAQs accordion**
+- **Dark/light themes**
+- **Dynamic product data fetching** from JSON files using JavaScript
+- **Product comments fetching** from JSON files using JavaScript
+- **Product information fetching** from JSON files using JavaScript
+- **CSS animations controlled by JavaScript**
+- **Intersection Observer for scroll-based animations**
+- **Relative font sizes for better accessibility**
 
+## Product Page Features
 
-JS:
+- **Detailed product information** dynamically fetched from JSON files using JavaScript
+- **User-friendly product image slider**
+- **Comments section with commenting form**
+- **Related products row** dynamically created from JSON data
+- **Ability to change product models** (color, size, etc.)
+- **Providers information** for each product fetched from JSON data
 
---Landing Page
-* Controling CSS Animations by JS
-* Optimizing page's animations-executions using "throttling" method
-* implementing custome products-row (by a function which gets products-obejcts-array and turns it to -> row of products with its controls)
-* implementing custome back-to-top-button (which developer can adjust its speed)
+## HTML Considerations
 
---Product Page
-* Preserving Product's information dynamically from its data -given from .json file(products-data.json)-
-* Presrving all defined Specifications & Models of each products which is defined in its .json file
-* Preserving all Providers of the Product with their features and information
-* Preserving Product's comments from .json file below the product (Comments and their Replies)
-* Preserving Product's 'Related Products' in a products-row (which the number of rows can be increased/decresed)
+- **Semantic HTML** principles observed
+- **Schema.org attributes** used
+- **Accessibility principles** applied
+- **SEO principles** followed
 
---Cart Page
-* Preserving all products which are in user's cart dynamically in Cart table
-* 
+## CSS Features
 
---Login/Register Page
+- **Flexbox** for layout
+- **Grid** for layouts in landing page and other sections
+- **CSS animations** for landing page elements with JavaScript control
+- **Custom-styled checkboxes** in product page for model selection
+- **CSS gradients** for shadow effects in product rows and popular products section
 
-TIP: Elements which are inside 'products greed', are made dynamically from 'productsData' array in 'index.js' file,
+## JavaScript Skills
 
+- **Fetch API** for fetching product, comment, and other data
+- **Asynchronous programming** for handling fetched data
+- **Intersection Observer** for handling appearance animations of elements
 
+## Optimization Techniques
 
-CSS:
-used Features:
-* Flexbox for layout
-* Grid for layouts in landing page ,...
-* CSS Animations for landing page elements (the executions are controled by Javascript)
-* custom-styled checkboxes in product-page (to select product models)
-* css gradients to make shadow effect in products-row s, Popular-Products section in landing page,...
-* 
+- **Optimizing CSS animations**
+- **Minifying and making images responsive**
+- **Debouncing or throttling scroll event listeners**
+- **Batching DOM queries**
+- **Simplifying logic and reducing function calls**
+- **Reducing animation complexity**
+- **Implementing lazy loading**
 
+## Accessibility
 
-##credits
-* 
+In this project I used various Accsessibility techniques to provide a usable website for everyone, such as: WAI-ARIA attributes/roles, tab-navigation, contrast, ....
 
+## Credits
 
-
-(done) * Optimize Appearance for all OSs(windows,... ) -> turn "fot-size: rem;" , "padding/margin: px(instead of em/rem)"
-(done) * Optimize CSS Appearance Animations
-(done) * Make Images minified & responsive
-(done) * Debouncing or Throttling:    Rather than triggering animations on every scroll event, debounce or throttle the scroll event listener to reduce the frequency of updates and improve performance.
-(done) * Batch DOM Queries(define variable for elements istead of using query-selection each time):    Instead of querying the DOM multiple times within the scroll event listener, batch your queries outside the listener and store references to the elements you need to animate.
-(done) * Simplify Logic(Reduce function calls and conditions):    Simplify your code by reducing unnecessary conditional checks and function calls. Consider refactoring repetitive code into reusable functions to improve readability and maintainability.
-(done) * Reduce Animation Complexity:    Consider simplifying your animations or reducing the number of animated elements to improve performance. You may also explore alternatives to CSS animations, such as CSS transitions or the Web Animations API, which can offer better performance in some cases.
-(done) * Lazy Loading:    If performance remains a concern, consider lazy loading or deferring animations until the user is closer to the animated elements. This can help reduce the initial load time and improve overall performance.
+- Graphical posters and personal logos created by Parsa Farahani
+- Regular icons from free resources like [Iconify Design](https://iconify.design/) and [Google Fonts Icons](https://fonts.google.com/icons)
+- Other resources which are used from external sources, are attributed (by a small link below the image)
