@@ -39,24 +39,24 @@
       "commentsCount": 87,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/smartwatch-512.jpg",
-         "srcset": "../assets/images/products/smartwatch-512.jpg, ../assets/images/products/smartwatch-768.jpg 1.5x, ../assets/images/products/smartwatch-1024.jpg 2x",
+         "src": "assets/images/products/smartwatch-512.jpg",
+         "srcset": "assets/images/products/smartwatch-512.jpg, assets/images/products/smartwatch-768.jpg 1.5x, assets/images/products/smartwatch-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/new-smartwatch-balancing-with-cliff_40408155.htm#fromView=search&page=1&position=30&uuid=2b667821-7506-405f-85ac-d1df55c9d280'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/smartwatch-512.jpg",
+            "src": "assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartwatch-512.jpg",
+            "src": "assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartwatch-512.jpg",
+            "src": "assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -110,29 +110,29 @@
       "commentsCount": 32,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/denimjacket-512.jpg",
-         "srcset": "../assets/images/products/denimjacket-512.jpg, ../assets/images/products/denimjacket-768.jpg 1.5x, ../assets/images/products/denimjacket-1024.jpg 2x",
+         "src": "assets/images/products/denimjacket-512.jpg",
+         "srcset": "assets/images/products/denimjacket-512.jpg, assets/images/products/denimjacket-768.jpg 1.5x, assets/images/products/denimjacket-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/white-denim-jacket-front-view-streetwear-fashion_15850189.htm#fromView=search&page=1&position=36&uuid=9ff9f485-9314-4c63-b5f2-0cd68aa5dbb4'>Image by rawpixel.com on Freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -190,30 +190,30 @@
       "commentsCount": 211,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/smartphone-1-512.jpg",
-         "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
+         "src": "assets/images/products/smartphone-1-512.jpg",
+         "srcset": "assets/images/products/smartphone-1-512.jpg, assets/images/products/smartphone-1-768.jpg 1.5x, assets/images/products/smartphone-1-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a class='txt-dark' href='https://www.freepik.com/free-photo/technology-panoramic-banner-collage_138707500.htm#fromView=search&page=1&position=24&uuid=1298abb4-0a52-48f7-ba34-6b1e7daa5fbc'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/smartphone-1-512.jpg",
-            "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-1-512.jpg",
+            "srcset": "assets/images/products/smartphone-1-512.jpg, assets/images/products/smartphone-1-768.jpg 1.5x, assets/images/products/smartphone-1-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartphone-2-512.jpg",
-            "srcset": "../assets/images/products/smartphone-2-512.jpg, ../assets/images/products/smartphone-2-768.jpg 1.5x, ../assets/images/products/smartphone-2-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-2-512.jpg",
+            "srcset": "assets/images/products/smartphone-2-512.jpg, assets/images/products/smartphone-2-768.jpg 1.5x, assets/images/products/smartphone-2-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartphone-3-512.jpg",
-            "srcset": "../assets/images/products/smartphone-3-512.jpg, ../assets/images/products/smartphone-3-768.jpg 1.5x, ../assets/images/products/smartphone-3-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-3-512.jpg",
+            "srcset": "assets/images/products/smartphone-3-512.jpg, assets/images/products/smartphone-3-768.jpg 1.5x, assets/images/products/smartphone-3-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartphone-4-512.jpg",
-            "srcset": "../assets/images/products/smartphone-4-512.jpg, ../assets/images/products/smartphone-4-768.jpg 1.5x, ../assets/images/products/smartphone-4-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-4-512.jpg",
+            "srcset": "assets/images/products/smartphone-4-512.jpg, assets/images/products/smartphone-4-768.jpg 1.5x, assets/images/products/smartphone-4-1024.jpg 2x",
             "alt": "product_image"
          }
       ],
@@ -273,24 +273,24 @@
       "commentsCount": 134,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/jacket-2-512.png",
-         "srcset": "../assets/images/products/jacket-2-512.png, ../assets/images/products/jacket-2-768.png 1.5x, ../assets/images/products/jacket-2-1024.png 2x",
+         "src": "assets/images/products/jacket-2-512.png",
+         "srcset": "assets/images/products/jacket-2-512.png, assets/images/products/jacket-2-768.png 1.5x, assets/images/products/jacket-2-1024.png 2x",
          "alt": "product_image",
          "attr": ""
       },
       "imgs": [
          {
-            "src": "../assets/images/products/jacket-2-512.png",
+            "src": "assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/jacket-2-512.png",
+            "src": "assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/jacket-2-512.png",
+            "src": "assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          }
@@ -350,29 +350,29 @@
       "commentsCount": 114,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/camera-512.jpg",
-         "srcset": "../assets/images/products/camera-512.jpg, ../assets/images/products/camera-768.jpg 1.5x, ../assets/images/products/camera-1024.jpg 2x",
+         "src": "assets/images/products/camera-512.jpg",
+         "srcset": "assets/images/products/camera-512.jpg, assets/images/products/camera-768.jpg 1.5x, assets/images/products/camera-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/retro-black-camera-arrangement_13360546.htm#fromView=search&page=3&position=27&uuid=ab41e103-68ab-43a4-86ab-f7de737ab0e9'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -424,24 +424,24 @@
       "commentsCount": 87,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/smartwatch-512.jpg",
-         "srcset": "../assets/images/products/smartwatch-512.jpg, ../assets/images/products/smartwatch-768.jpg 1.5x, ../assets/images/products/smartwatch-1024.jpg 2x",
+         "src": "assets/images/products/smartwatch-512.jpg",
+         "srcset": "assets/images/products/smartwatch-512.jpg, assets/images/products/smartwatch-768.jpg 1.5x, assets/images/products/smartwatch-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/new-smartwatch-balancing-with-cliff_40408155.htm#fromView=search&page=1&position=30&uuid=2b667821-7506-405f-85ac-d1df55c9d280'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/smartwatch-512.jpg",
+            "src": "assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartwatch-512.jpg",
+            "src": "assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartwatch-512.jpg",
+            "src": "assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -495,29 +495,29 @@
       "commentsCount": 32,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/denimjacket-512.jpg",
-         "srcset": "../assets/images/products/denimjacket-512.jpg, ../assets/images/products/denimjacket-768.jpg 1.5x, ../assets/images/products/denimjacket-1024.jpg 2x",
+         "src": "assets/images/products/denimjacket-512.jpg",
+         "srcset": "assets/images/products/denimjacket-512.jpg, assets/images/products/denimjacket-768.jpg 1.5x, assets/images/products/denimjacket-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/white-denim-jacket-front-view-streetwear-fashion_15850189.htm#fromView=search&page=1&position=36&uuid=9ff9f485-9314-4c63-b5f2-0cd68aa5dbb4'>Image by rawpixel.com on Freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -575,30 +575,30 @@
       "commentsCount": 211,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/smartphone-1-512.jpg",
-         "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
+         "src": "assets/images/products/smartphone-1-512.jpg",
+         "srcset": "assets/images/products/smartphone-1-512.jpg, assets/images/products/smartphone-1-768.jpg 1.5x, assets/images/products/smartphone-1-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a class='txt-dark' href='https://www.freepik.com/free-photo/technology-panoramic-banner-collage_138707500.htm#fromView=search&page=1&position=24&uuid=1298abb4-0a52-48f7-ba34-6b1e7daa5fbc'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/smartphone-1-512.jpg",
-            "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-1-512.jpg",
+            "srcset": "assets/images/products/smartphone-1-512.jpg, assets/images/products/smartphone-1-768.jpg 1.5x, assets/images/products/smartphone-1-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartphone-2-512.jpg",
-            "srcset": "../assets/images/products/smartphone-2-512.jpg, ../assets/images/products/smartphone-2-768.jpg 1.5x, ../assets/images/products/smartphone-2-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-2-512.jpg",
+            "srcset": "assets/images/products/smartphone-2-512.jpg, assets/images/products/smartphone-2-768.jpg 1.5x, assets/images/products/smartphone-2-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartphone-3-512.jpg",
-            "srcset": "../assets/images/products/smartphone-3-512.jpg, ../assets/images/products/smartphone-3-768.jpg 1.5x, ../assets/images/products/smartphone-3-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-3-512.jpg",
+            "srcset": "assets/images/products/smartphone-3-512.jpg, assets/images/products/smartphone-3-768.jpg 1.5x, assets/images/products/smartphone-3-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartphone-4-512.jpg",
-            "srcset": "../assets/images/products/smartphone-4-512.jpg, ../assets/images/products/smartphone-4-768.jpg 1.5x, ../assets/images/products/smartphone-4-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-4-512.jpg",
+            "srcset": "assets/images/products/smartphone-4-512.jpg, assets/images/products/smartphone-4-768.jpg 1.5x, assets/images/products/smartphone-4-1024.jpg 2x",
             "alt": "product_image"
          }
       ],
@@ -658,24 +658,24 @@
       "commentsCount": 134,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/jacket-2-512.png",
-         "srcset": "../assets/images/products/jacket-2-512.png, ../assets/images/products/jacket-2-768.png 1.5x, ../assets/images/products/jacket-2-1024.png 2x",
+         "src": "assets/images/products/jacket-2-512.png",
+         "srcset": "assets/images/products/jacket-2-512.png, assets/images/products/jacket-2-768.png 1.5x, assets/images/products/jacket-2-1024.png 2x",
          "alt": "product_image",
          "attr": ""
       },
       "imgs": [
          {
-            "src": "../assets/images/products/jacket-2-512.png",
+            "src": "assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/jacket-2-512.png",
+            "src": "assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/jacket-2-512.png",
+            "src": "assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          }
@@ -735,29 +735,29 @@
       "commentsCount": 114,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/camera-512.jpg",
-         "srcset": "../assets/images/products/camera-512.jpg, ../assets/images/products/camera-768.jpg 1.5x, ../assets/images/products/camera-1024.jpg 2x",
+         "src": "assets/images/products/camera-512.jpg",
+         "srcset": "assets/images/products/camera-512.jpg, assets/images/products/camera-768.jpg 1.5x, assets/images/products/camera-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/retro-black-camera-arrangement_13360546.htm#fromView=search&page=3&position=27&uuid=ab41e103-68ab-43a4-86ab-f7de737ab0e9'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -809,24 +809,24 @@
       "commentsCount": 87,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/smartwatch-512.jpg",
-         "srcset": "../assets/images/products/smartwatch-512.jpg, ../assets/images/products/smartwatch-768.jpg 1.5x, ../assets/images/products/smartwatch-1024.jpg 2x",
+         "src": "assets/images/products/smartwatch-512.jpg",
+         "srcset": "assets/images/products/smartwatch-512.jpg, assets/images/products/smartwatch-768.jpg 1.5x, assets/images/products/smartwatch-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/new-smartwatch-balancing-with-cliff_40408155.htm#fromView=search&page=1&position=30&uuid=2b667821-7506-405f-85ac-d1df55c9d280'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/smartwatch-512.jpg",
+            "src": "assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartwatch-512.jpg",
+            "src": "assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartwatch-512.jpg",
+            "src": "assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -880,29 +880,29 @@
       "commentsCount": 32,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/denimjacket-512.jpg",
-         "srcset": "../assets/images/products/denimjacket-512.jpg, ../assets/images/products/denimjacket-768.jpg 1.5x, ../assets/images/products/denimjacket-1024.jpg 2x",
+         "src": "assets/images/products/denimjacket-512.jpg",
+         "srcset": "assets/images/products/denimjacket-512.jpg, assets/images/products/denimjacket-768.jpg 1.5x, assets/images/products/denimjacket-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/white-denim-jacket-front-view-streetwear-fashion_15850189.htm#fromView=search&page=1&position=36&uuid=9ff9f485-9314-4c63-b5f2-0cd68aa5dbb4'>Image by rawpixel.com on Freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -960,30 +960,30 @@
       "commentsCount": 211,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/smartphone-1-512.jpg",
-         "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
+         "src": "assets/images/products/smartphone-1-512.jpg",
+         "srcset": "assets/images/products/smartphone-1-512.jpg, assets/images/products/smartphone-1-768.jpg 1.5x, assets/images/products/smartphone-1-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a class='txt-dark' href='https://www.freepik.com/free-photo/technology-panoramic-banner-collage_138707500.htm#fromView=search&page=1&position=24&uuid=1298abb4-0a52-48f7-ba34-6b1e7daa5fbc'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/smartphone-1-512.jpg",
-            "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-1-512.jpg",
+            "srcset": "assets/images/products/smartphone-1-512.jpg, assets/images/products/smartphone-1-768.jpg 1.5x, assets/images/products/smartphone-1-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartphone-2-512.jpg",
-            "srcset": "../assets/images/products/smartphone-2-512.jpg, ../assets/images/products/smartphone-2-768.jpg 1.5x, ../assets/images/products/smartphone-2-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-2-512.jpg",
+            "srcset": "assets/images/products/smartphone-2-512.jpg, assets/images/products/smartphone-2-768.jpg 1.5x, assets/images/products/smartphone-2-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartphone-3-512.jpg",
-            "srcset": "../assets/images/products/smartphone-3-512.jpg, ../assets/images/products/smartphone-3-768.jpg 1.5x, ../assets/images/products/smartphone-3-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-3-512.jpg",
+            "srcset": "assets/images/products/smartphone-3-512.jpg, assets/images/products/smartphone-3-768.jpg 1.5x, assets/images/products/smartphone-3-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartphone-4-512.jpg",
-            "srcset": "../assets/images/products/smartphone-4-512.jpg, ../assets/images/products/smartphone-4-768.jpg 1.5x, ../assets/images/products/smartphone-4-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-4-512.jpg",
+            "srcset": "assets/images/products/smartphone-4-512.jpg, assets/images/products/smartphone-4-768.jpg 1.5x, assets/images/products/smartphone-4-1024.jpg 2x",
             "alt": "product_image"
          }
       ],
@@ -1043,24 +1043,24 @@
       "commentsCount": 134,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/jacket-2-512.png",
-         "srcset": "../assets/images/products/jacket-2-512.png, ../assets/images/products/jacket-2-768.png 1.5x, ../assets/images/products/jacket-2-1024.png 2x",
+         "src": "assets/images/products/jacket-2-512.png",
+         "srcset": "assets/images/products/jacket-2-512.png, assets/images/products/jacket-2-768.png 1.5x, assets/images/products/jacket-2-1024.png 2x",
          "alt": "product_image",
          "attr": ""
       },
       "imgs": [
          {
-            "src": "../assets/images/products/jacket-2-512.png",
+            "src": "assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/jacket-2-512.png",
+            "src": "assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/jacket-2-512.png",
+            "src": "assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          }
@@ -1120,29 +1120,29 @@
       "commentsCount": 114,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/camera-512.jpg",
-         "srcset": "../assets/images/products/camera-512.jpg, ../assets/images/products/camera-768.jpg 1.5x, ../assets/images/products/camera-1024.jpg 2x",
+         "src": "assets/images/products/camera-512.jpg",
+         "srcset": "assets/images/products/camera-512.jpg, assets/images/products/camera-768.jpg 1.5x, assets/images/products/camera-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/retro-black-camera-arrangement_13360546.htm#fromView=search&page=3&position=27&uuid=ab41e103-68ab-43a4-86ab-f7de737ab0e9'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -1194,24 +1194,24 @@
       "commentsCount": 87,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/smartwatch-512.jpg",
-         "srcset": "../assets/images/products/smartwatch-512.jpg, ../assets/images/products/smartwatch-768.jpg 1.5x, ../assets/images/products/smartwatch-1024.jpg 2x",
+         "src": "assets/images/products/smartwatch-512.jpg",
+         "srcset": "assets/images/products/smartwatch-512.jpg, assets/images/products/smartwatch-768.jpg 1.5x, assets/images/products/smartwatch-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/new-smartwatch-balancing-with-cliff_40408155.htm#fromView=search&page=1&position=30&uuid=2b667821-7506-405f-85ac-d1df55c9d280'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/smartwatch-512.jpg",
+            "src": "assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartwatch-512.jpg",
+            "src": "assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartwatch-512.jpg",
+            "src": "assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -1265,29 +1265,29 @@
       "commentsCount": 32,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/denimjacket-512.jpg",
-         "srcset": "../assets/images/products/denimjacket-512.jpg, ../assets/images/products/denimjacket-768.jpg 1.5x, ../assets/images/products/denimjacket-1024.jpg 2x",
+         "src": "assets/images/products/denimjacket-512.jpg",
+         "srcset": "assets/images/products/denimjacket-512.jpg, assets/images/products/denimjacket-768.jpg 1.5x, assets/images/products/denimjacket-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/white-denim-jacket-front-view-streetwear-fashion_15850189.htm#fromView=search&page=1&position=36&uuid=9ff9f485-9314-4c63-b5f2-0cd68aa5dbb4'>Image by rawpixel.com on Freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -1345,30 +1345,30 @@
       "commentsCount": 211,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/smartphone-1-512.jpg",
-         "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
+         "src": "assets/images/products/smartphone-1-512.jpg",
+         "srcset": "assets/images/products/smartphone-1-512.jpg, assets/images/products/smartphone-1-768.jpg 1.5x, assets/images/products/smartphone-1-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a class='txt-dark' href='https://www.freepik.com/free-photo/technology-panoramic-banner-collage_138707500.htm#fromView=search&page=1&position=24&uuid=1298abb4-0a52-48f7-ba34-6b1e7daa5fbc'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/smartphone-1-512.jpg",
-            "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-1-512.jpg",
+            "srcset": "assets/images/products/smartphone-1-512.jpg, assets/images/products/smartphone-1-768.jpg 1.5x, assets/images/products/smartphone-1-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartphone-2-512.jpg",
-            "srcset": "../assets/images/products/smartphone-2-512.jpg, ../assets/images/products/smartphone-2-768.jpg 1.5x, ../assets/images/products/smartphone-2-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-2-512.jpg",
+            "srcset": "assets/images/products/smartphone-2-512.jpg, assets/images/products/smartphone-2-768.jpg 1.5x, assets/images/products/smartphone-2-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartphone-3-512.jpg",
-            "srcset": "../assets/images/products/smartphone-3-512.jpg, ../assets/images/products/smartphone-3-768.jpg 1.5x, ../assets/images/products/smartphone-3-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-3-512.jpg",
+            "srcset": "assets/images/products/smartphone-3-512.jpg, assets/images/products/smartphone-3-768.jpg 1.5x, assets/images/products/smartphone-3-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartphone-4-512.jpg",
-            "srcset": "../assets/images/products/smartphone-4-512.jpg, ../assets/images/products/smartphone-4-768.jpg 1.5x, ../assets/images/products/smartphone-4-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-4-512.jpg",
+            "srcset": "assets/images/products/smartphone-4-512.jpg, assets/images/products/smartphone-4-768.jpg 1.5x, assets/images/products/smartphone-4-1024.jpg 2x",
             "alt": "product_image"
          }
       ],
@@ -1428,24 +1428,24 @@
       "commentsCount": 134,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/jacket-2-512.png",
-         "srcset": "../assets/images/products/jacket-2-512.png, ../assets/images/products/jacket-2-768.png 1.5x, ../assets/images/products/jacket-2-1024.png 2x",
+         "src": "assets/images/products/jacket-2-512.png",
+         "srcset": "assets/images/products/jacket-2-512.png, assets/images/products/jacket-2-768.png 1.5x, assets/images/products/jacket-2-1024.png 2x",
          "alt": "product_image",
          "attr": ""
       },
       "imgs": [
          {
-            "src": "../assets/images/products/jacket-2-512.png",
+            "src": "assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/jacket-2-512.png",
+            "src": "assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/jacket-2-512.png",
+            "src": "assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          }
@@ -1505,29 +1505,29 @@
       "commentsCount": 114,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/camera-512.jpg",
-         "srcset": "../assets/images/products/camera-512.jpg, ../assets/images/products/camera-768.jpg 1.5x, ../assets/images/products/camera-1024.jpg 2x",
+         "src": "assets/images/products/camera-512.jpg",
+         "srcset": "assets/images/products/camera-512.jpg, assets/images/products/camera-768.jpg 1.5x, assets/images/products/camera-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/retro-black-camera-arrangement_13360546.htm#fromView=search&page=3&position=27&uuid=ab41e103-68ab-43a4-86ab-f7de737ab0e9'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -1579,24 +1579,24 @@
       "commentsCount": 87,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/smartwatch-512.jpg",
-         "srcset": "../assets/images/products/smartwatch-512.jpg, ../assets/images/products/smartwatch-768.jpg 1.5x, ../assets/images/products/smartwatch-1024.jpg 2x",
+         "src": "assets/images/products/smartwatch-512.jpg",
+         "srcset": "assets/images/products/smartwatch-512.jpg, assets/images/products/smartwatch-768.jpg 1.5x, assets/images/products/smartwatch-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/new-smartwatch-balancing-with-cliff_40408155.htm#fromView=search&page=1&position=30&uuid=2b667821-7506-405f-85ac-d1df55c9d280'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/smartwatch-512.jpg",
+            "src": "assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartwatch-512.jpg",
+            "src": "assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartwatch-512.jpg",
+            "src": "assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -1650,29 +1650,29 @@
       "commentsCount": 32,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/denimjacket-512.jpg",
-         "srcset": "../assets/images/products/denimjacket-512.jpg, ../assets/images/products/denimjacket-768.jpg 1.5x, ../assets/images/products/denimjacket-1024.jpg 2x",
+         "src": "assets/images/products/denimjacket-512.jpg",
+         "srcset": "assets/images/products/denimjacket-512.jpg, assets/images/products/denimjacket-768.jpg 1.5x, assets/images/products/denimjacket-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/white-denim-jacket-front-view-streetwear-fashion_15850189.htm#fromView=search&page=1&position=36&uuid=9ff9f485-9314-4c63-b5f2-0cd68aa5dbb4'>Image by rawpixel.com on Freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/denimjacket-512.jpg",
+            "src": "assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -1730,30 +1730,30 @@
       "commentsCount": 211,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/smartphone-1-512.jpg",
-         "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
+         "src": "assets/images/products/smartphone-1-512.jpg",
+         "srcset": "assets/images/products/smartphone-1-512.jpg, assets/images/products/smartphone-1-768.jpg 1.5x, assets/images/products/smartphone-1-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a class='txt-dark' href='https://www.freepik.com/free-photo/technology-panoramic-banner-collage_138707500.htm#fromView=search&page=1&position=24&uuid=1298abb4-0a52-48f7-ba34-6b1e7daa5fbc'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/smartphone-1-512.jpg",
-            "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-1-512.jpg",
+            "srcset": "assets/images/products/smartphone-1-512.jpg, assets/images/products/smartphone-1-768.jpg 1.5x, assets/images/products/smartphone-1-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartphone-2-512.jpg",
-            "srcset": "../assets/images/products/smartphone-2-512.jpg, ../assets/images/products/smartphone-2-768.jpg 1.5x, ../assets/images/products/smartphone-2-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-2-512.jpg",
+            "srcset": "assets/images/products/smartphone-2-512.jpg, assets/images/products/smartphone-2-768.jpg 1.5x, assets/images/products/smartphone-2-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartphone-3-512.jpg",
-            "srcset": "../assets/images/products/smartphone-3-512.jpg, ../assets/images/products/smartphone-3-768.jpg 1.5x, ../assets/images/products/smartphone-3-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-3-512.jpg",
+            "srcset": "assets/images/products/smartphone-3-512.jpg, assets/images/products/smartphone-3-768.jpg 1.5x, assets/images/products/smartphone-3-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/smartphone-4-512.jpg",
-            "srcset": "../assets/images/products/smartphone-4-512.jpg, ../assets/images/products/smartphone-4-768.jpg 1.5x, ../assets/images/products/smartphone-4-1024.jpg 2x",
+            "src": "assets/images/products/smartphone-4-512.jpg",
+            "srcset": "assets/images/products/smartphone-4-512.jpg, assets/images/products/smartphone-4-768.jpg 1.5x, assets/images/products/smartphone-4-1024.jpg 2x",
             "alt": "product_image"
          }
       ],
@@ -1813,24 +1813,24 @@
       "commentsCount": 134,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/jacket-2-512.png",
-         "srcset": "../assets/images/products/jacket-2-512.png, ../assets/images/products/jacket-2-768.png 1.5x, ../assets/images/products/jacket-2-1024.png 2x",
+         "src": "assets/images/products/jacket-2-512.png",
+         "srcset": "assets/images/products/jacket-2-512.png, assets/images/products/jacket-2-768.png 1.5x, assets/images/products/jacket-2-1024.png 2x",
          "alt": "product_image",
          "attr": ""
       },
       "imgs": [
          {
-            "src": "../assets/images/products/jacket-2-512.png",
+            "src": "assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/jacket-2-512.png",
+            "src": "assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/jacket-2-512.png",
+            "src": "assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          }
@@ -1890,29 +1890,29 @@
       "commentsCount": 114,
       "comments": [],
       "cardImg": {
-         "src": "../assets/images/products/camera-512.jpg",
-         "srcset": "../assets/images/products/camera-512.jpg, ../assets/images/products/camera-768.jpg 1.5x, ../assets/images/products/camera-1024.jpg 2x",
+         "src": "assets/images/products/camera-512.jpg",
+         "srcset": "assets/images/products/camera-512.jpg, assets/images/products/camera-768.jpg 1.5x, assets/images/products/camera-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/retro-black-camera-arrangement_13360546.htm#fromView=search&page=3&position=27&uuid=ab41e103-68ab-43a4-86ab-f7de737ab0e9'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "../assets/images/products/camera-512.jpg",
+            "src": "assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
