@@ -30,7 +30,7 @@
          "Receive notifications and control your music directly from your wrist."
       ],
       "category": "Electronics / smartwatches",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 149.99,
       "discount": 0.1,
@@ -39,24 +39,24 @@
       "commentsCount": 87,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/smartwatch-512.jpg",
-         "srcset": "/assets/images/products/smartwatch-512.jpg, /assets/images/products/smartwatch-768.jpg 1.5x, /assets/images/products/smartwatch-1024.jpg 2x",
+         "src": "../assets/images/products/smartwatch-512.jpg",
+         "srcset": "../assets/images/products/smartwatch-512.jpg, ../assets/images/products/smartwatch-768.jpg 1.5x, ../assets/images/products/smartwatch-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/new-smartwatch-balancing-with-cliff_40408155.htm#fromView=search&page=1&position=30&uuid=2b667821-7506-405f-85ac-d1df55c9d280'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "/assets/images/products/smartwatch-512.jpg",
+            "src": "../assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/smartwatch-512.jpg",
+            "src": "../assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/smartwatch-512.jpg",
+            "src": "../assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -101,7 +101,7 @@
         " Care Instructions": "Machine wash cold, tumble dry low"
       },
       "category": "Clothes / Jackets",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 79.99,
       "discount": 0.2,
@@ -110,29 +110,29 @@
       "commentsCount": 32,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/denimjacket-512.jpg",
-         "srcset": "/assets/images/products/denimjacket-512.jpg, /assets/images/products/denimjacket-768.jpg 1.5x, /assets/images/products/denimjacket-1024.jpg 2x",
+         "src": "../assets/images/products/denimjacket-512.jpg",
+         "srcset": "../assets/images/products/denimjacket-512.jpg, ../assets/images/products/denimjacket-768.jpg 1.5x, ../assets/images/products/denimjacket-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/white-denim-jacket-front-view-streetwear-fashion_15850189.htm#fromView=search&page=1&position=36&uuid=9ff9f485-9314-4c63-b5f2-0cd68aa5dbb4'>Image by rawpixel.com on Freepik</a>"
       },
       "imgs": [
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -181,7 +181,7 @@
          "Advanced camera system for capturing stunning photos and videos."
       ],
       "category": "Electronics / Phones",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 999.99,
       "discount": 0.08,
@@ -190,30 +190,30 @@
       "commentsCount": 211,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/smartphone-1-512.jpg",
-         "srcset": "/assets/images/products/smartphone-1-512.jpg, /assets/images/products/smartphone-1-768.jpg 1.5x, /assets/images/products/smartphone-1-1024.jpg 2x",
+         "src": "../assets/images/products/smartphone-1-512.jpg",
+         "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a class='txt-dark' href='https://www.freepik.com/free-photo/technology-panoramic-banner-collage_138707500.htm#fromView=search&page=1&position=24&uuid=1298abb4-0a52-48f7-ba34-6b1e7daa5fbc'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "./assets/images/products/smartphone-1-512.jpg",
-            "srcset": "./assets/images/products/smartphone-1-512.jpg, ./assets/images/products/smartphone-1-768.jpg 1.5x, ./assets/images/products/smartphone-1-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-1-512.jpg",
+            "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "./assets/images/products/smartphone-2-512.jpg",
-            "srcset": "./assets/images/products/smartphone-2-512.jpg, ./assets/images/products/smartphone-2-768.jpg 1.5x, ./assets/images/products/smartphone-2-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-2-512.jpg",
+            "srcset": "../assets/images/products/smartphone-2-512.jpg, ../assets/images/products/smartphone-2-768.jpg 1.5x, ../assets/images/products/smartphone-2-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "./assets/images/products/smartphone-3-512.jpg",
-            "srcset": "./assets/images/products/smartphone-3-512.jpg, ./assets/images/products/smartphone-3-768.jpg 1.5x, ./assets/images/products/smartphone-3-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-3-512.jpg",
+            "srcset": "../assets/images/products/smartphone-3-512.jpg, ../assets/images/products/smartphone-3-768.jpg 1.5x, ../assets/images/products/smartphone-3-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "./assets/images/products/smartphone-4-512.jpg",
-            "srcset": "./assets/images/products/smartphone-4-512.jpg, ./assets/images/products/smartphone-4-768.jpg 1.5x, ./assets/images/products/smartphone-4-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-4-512.jpg",
+            "srcset": "../assets/images/products/smartphone-4-512.jpg, ../assets/images/products/smartphone-4-768.jpg 1.5x, ../assets/images/products/smartphone-4-1024.jpg 2x",
             "alt": "product_image"
          }
       ],
@@ -264,7 +264,7 @@
          "Durable materials that withstand the rigors of outdoor activities."
       ],
       "category": "Clothes / Jackets", 
-      "product_page_URL": "#", 
+      "product_page_URL": "/Mini-Commerce/product.html", 
       "categoryLink": "#", 
       "price": 129.99, 
       "discount": 0.15, 
@@ -273,24 +273,24 @@
       "commentsCount": 134,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/jacket-2-512.png",
-         "srcset": "/assets/images/products/jacket-2-512.png, /assets/images/products/jacket-2-768.png 1.5x, /assets/images/products/jacket-2-1024.png 2x",
+         "src": "../assets/images/products/jacket-2-512.png",
+         "srcset": "../assets/images/products/jacket-2-512.png, ../assets/images/products/jacket-2-768.png 1.5x, ../assets/images/products/jacket-2-1024.png 2x",
          "alt": "product_image",
          "attr": ""
       },
       "imgs": [
          {
-            "src": "/assets/images/products/jacket-2-512.png",
+            "src": "../assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/jacket-2-512.png",
+            "src": "../assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/jacket-2-512.png",
+            "src": "../assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          }
@@ -341,7 +341,7 @@
          "Rugged construction and advanced features for professional-grade performance."
       ],
       "category": "Electronics / Cameras",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 1499.99,
       "discount": 0,
@@ -350,29 +350,29 @@
       "commentsCount": 114,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/camera-512.jpg",
-         "srcset": "/assets/images/products/camera-512.jpg, /assets/images/products/camera-768.jpg 1.5x, /assets/images/products/camera-1024.jpg 2x",
+         "src": "../assets/images/products/camera-512.jpg",
+         "srcset": "../assets/images/products/camera-512.jpg, ../assets/images/products/camera-768.jpg 1.5x, ../assets/images/products/camera-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/retro-black-camera-arrangement_13360546.htm#fromView=search&page=3&position=27&uuid=ab41e103-68ab-43a4-86ab-f7de737ab0e9'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -415,7 +415,7 @@
          "Receive notifications and control your music directly from your wrist."
       ],
       "category": "Electronics / smartwatches",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 149.99,
       "discount": 0.1,
@@ -424,24 +424,24 @@
       "commentsCount": 87,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/smartwatch-512.jpg",
-         "srcset": "/assets/images/products/smartwatch-512.jpg, /assets/images/products/smartwatch-768.jpg 1.5x, /assets/images/products/smartwatch-1024.jpg 2x",
+         "src": "../assets/images/products/smartwatch-512.jpg",
+         "srcset": "../assets/images/products/smartwatch-512.jpg, ../assets/images/products/smartwatch-768.jpg 1.5x, ../assets/images/products/smartwatch-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/new-smartwatch-balancing-with-cliff_40408155.htm#fromView=search&page=1&position=30&uuid=2b667821-7506-405f-85ac-d1df55c9d280'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "/assets/images/products/smartwatch-512.jpg",
+            "src": "../assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/smartwatch-512.jpg",
+            "src": "../assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/smartwatch-512.jpg",
+            "src": "../assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -486,38 +486,38 @@
         " Care Instructions": "Machine wash cold, tumble dry low"
       },
       "category": "Clothes / Jackets",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 79.99,
       "discount": 0.2,
-      "rating": 3.5,
+      "rating": 1.5,
       "reviewsCount": 86,
       "commentsCount": 32,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/denimjacket-512.jpg",
-         "srcset": "/assets/images/products/denimjacket-512.jpg, /assets/images/products/denimjacket-768.jpg 1.5x, /assets/images/products/denimjacket-1024.jpg 2x",
+         "src": "../assets/images/products/denimjacket-512.jpg",
+         "srcset": "../assets/images/products/denimjacket-512.jpg, ../assets/images/products/denimjacket-768.jpg 1.5x, ../assets/images/products/denimjacket-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/white-denim-jacket-front-view-streetwear-fashion_15850189.htm#fromView=search&page=1&position=36&uuid=9ff9f485-9314-4c63-b5f2-0cd68aa5dbb4'>Image by rawpixel.com on Freepik</a>"
       },
       "imgs": [
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -566,7 +566,7 @@
          "Advanced camera system for capturing stunning photos and videos."
       ],
       "category": "Electronics / Phones",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 999.99,
       "discount": 0.08,
@@ -575,30 +575,30 @@
       "commentsCount": 211,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/smartphone-1-512.jpg",
-         "srcset": "/assets/images/products/smartphone-1-512.jpg, /assets/images/products/smartphone-1-768.jpg 1.5x, /assets/images/products/smartphone-1-1024.jpg 2x",
+         "src": "../assets/images/products/smartphone-1-512.jpg",
+         "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a class='txt-dark' href='https://www.freepik.com/free-photo/technology-panoramic-banner-collage_138707500.htm#fromView=search&page=1&position=24&uuid=1298abb4-0a52-48f7-ba34-6b1e7daa5fbc'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "./assets/images/products/smartphone-1-512.jpg",
-            "srcset": "./assets/images/products/smartphone-1-512.jpg, ./assets/images/products/smartphone-1-768.jpg 1.5x, ./assets/images/products/smartphone-1-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-1-512.jpg",
+            "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "./assets/images/products/smartphone-2-512.jpg",
-            "srcset": "./assets/images/products/smartphone-2-512.jpg, ./assets/images/products/smartphone-2-768.jpg 1.5x, ./assets/images/products/smartphone-2-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-2-512.jpg",
+            "srcset": "../assets/images/products/smartphone-2-512.jpg, ../assets/images/products/smartphone-2-768.jpg 1.5x, ../assets/images/products/smartphone-2-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "./assets/images/products/smartphone-3-512.jpg",
-            "srcset": "./assets/images/products/smartphone-3-512.jpg, ./assets/images/products/smartphone-3-768.jpg 1.5x, ./assets/images/products/smartphone-3-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-3-512.jpg",
+            "srcset": "../assets/images/products/smartphone-3-512.jpg, ../assets/images/products/smartphone-3-768.jpg 1.5x, ../assets/images/products/smartphone-3-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "./assets/images/products/smartphone-4-512.jpg",
-            "srcset": "./assets/images/products/smartphone-4-512.jpg, ./assets/images/products/smartphone-4-768.jpg 1.5x, ./assets/images/products/smartphone-4-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-4-512.jpg",
+            "srcset": "../assets/images/products/smartphone-4-512.jpg, ../assets/images/products/smartphone-4-768.jpg 1.5x, ../assets/images/products/smartphone-4-1024.jpg 2x",
             "alt": "product_image"
          }
       ],
@@ -649,7 +649,7 @@
          "Durable materials that withstand the rigors of outdoor activities."
       ],
       "category": "Clothes / Jackets", 
-      "product_page_URL": "#", 
+      "product_page_URL": "/Mini-Commerce/product.html", 
       "categoryLink": "#", 
       "price": 129.99, 
       "discount": 0.15, 
@@ -658,24 +658,24 @@
       "commentsCount": 134,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/jacket-2-512.png",
-         "srcset": "/assets/images/products/jacket-2-512.png, /assets/images/products/jacket-2-768.png 1.5x, /assets/images/products/jacket-2-1024.png 2x",
+         "src": "../assets/images/products/jacket-2-512.png",
+         "srcset": "../assets/images/products/jacket-2-512.png, ../assets/images/products/jacket-2-768.png 1.5x, ../assets/images/products/jacket-2-1024.png 2x",
          "alt": "product_image",
          "attr": ""
       },
       "imgs": [
          {
-            "src": "/assets/images/products/jacket-2-512.png",
+            "src": "../assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/jacket-2-512.png",
+            "src": "../assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/jacket-2-512.png",
+            "src": "../assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          }
@@ -726,38 +726,38 @@
          "Rugged construction and advanced features for professional-grade performance."
       ],
       "category": "Electronics / Cameras",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 1499.99,
       "discount": 0,
-      "rating": 3.2,
+      "rating": 2.4,
       "reviewsCount": 86,
       "commentsCount": 114,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/camera-512.jpg",
-         "srcset": "/assets/images/products/camera-512.jpg, /assets/images/products/camera-768.jpg 1.5x, /assets/images/products/camera-1024.jpg 2x",
+         "src": "../assets/images/products/camera-512.jpg",
+         "srcset": "../assets/images/products/camera-512.jpg, ../assets/images/products/camera-768.jpg 1.5x, ../assets/images/products/camera-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/retro-black-camera-arrangement_13360546.htm#fromView=search&page=3&position=27&uuid=ab41e103-68ab-43a4-86ab-f7de737ab0e9'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -800,7 +800,7 @@
          "Receive notifications and control your music directly from your wrist."
       ],
       "category": "Electronics / smartwatches",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 149.99,
       "discount": 0.1,
@@ -809,24 +809,24 @@
       "commentsCount": 87,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/smartwatch-512.jpg",
-         "srcset": "/assets/images/products/smartwatch-512.jpg, /assets/images/products/smartwatch-768.jpg 1.5x, /assets/images/products/smartwatch-1024.jpg 2x",
+         "src": "../assets/images/products/smartwatch-512.jpg",
+         "srcset": "../assets/images/products/smartwatch-512.jpg, ../assets/images/products/smartwatch-768.jpg 1.5x, ../assets/images/products/smartwatch-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/new-smartwatch-balancing-with-cliff_40408155.htm#fromView=search&page=1&position=30&uuid=2b667821-7506-405f-85ac-d1df55c9d280'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "/assets/images/products/smartwatch-512.jpg",
+            "src": "../assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/smartwatch-512.jpg",
+            "src": "../assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/smartwatch-512.jpg",
+            "src": "../assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -871,38 +871,38 @@
         " Care Instructions": "Machine wash cold, tumble dry low"
       },
       "category": "Clothes / Jackets",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 79.99,
       "discount": 0.2,
-      "rating": 3.5,
+      "rating": 1.5,
       "reviewsCount": 86,
       "commentsCount": 32,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/denimjacket-512.jpg",
-         "srcset": "/assets/images/products/denimjacket-512.jpg, /assets/images/products/denimjacket-768.jpg 1.5x, /assets/images/products/denimjacket-1024.jpg 2x",
+         "src": "../assets/images/products/denimjacket-512.jpg",
+         "srcset": "../assets/images/products/denimjacket-512.jpg, ../assets/images/products/denimjacket-768.jpg 1.5x, ../assets/images/products/denimjacket-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/white-denim-jacket-front-view-streetwear-fashion_15850189.htm#fromView=search&page=1&position=36&uuid=9ff9f485-9314-4c63-b5f2-0cd68aa5dbb4'>Image by rawpixel.com on Freepik</a>"
       },
       "imgs": [
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -951,7 +951,7 @@
          "Advanced camera system for capturing stunning photos and videos."
       ],
       "category": "Electronics / Phones",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 999.99,
       "discount": 0.08,
@@ -960,30 +960,30 @@
       "commentsCount": 211,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/smartphone-1-512.jpg",
-         "srcset": "/assets/images/products/smartphone-1-512.jpg, /assets/images/products/smartphone-1-768.jpg 1.5x, /assets/images/products/smartphone-1-1024.jpg 2x",
+         "src": "../assets/images/products/smartphone-1-512.jpg",
+         "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a class='txt-dark' href='https://www.freepik.com/free-photo/technology-panoramic-banner-collage_138707500.htm#fromView=search&page=1&position=24&uuid=1298abb4-0a52-48f7-ba34-6b1e7daa5fbc'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "./assets/images/products/smartphone-1-512.jpg",
-            "srcset": "./assets/images/products/smartphone-1-512.jpg, ./assets/images/products/smartphone-1-768.jpg 1.5x, ./assets/images/products/smartphone-1-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-1-512.jpg",
+            "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "./assets/images/products/smartphone-2-512.jpg",
-            "srcset": "./assets/images/products/smartphone-2-512.jpg, ./assets/images/products/smartphone-2-768.jpg 1.5x, ./assets/images/products/smartphone-2-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-2-512.jpg",
+            "srcset": "../assets/images/products/smartphone-2-512.jpg, ../assets/images/products/smartphone-2-768.jpg 1.5x, ../assets/images/products/smartphone-2-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "./assets/images/products/smartphone-3-512.jpg",
-            "srcset": "./assets/images/products/smartphone-3-512.jpg, ./assets/images/products/smartphone-3-768.jpg 1.5x, ./assets/images/products/smartphone-3-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-3-512.jpg",
+            "srcset": "../assets/images/products/smartphone-3-512.jpg, ../assets/images/products/smartphone-3-768.jpg 1.5x, ../assets/images/products/smartphone-3-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "./assets/images/products/smartphone-4-512.jpg",
-            "srcset": "./assets/images/products/smartphone-4-512.jpg, ./assets/images/products/smartphone-4-768.jpg 1.5x, ./assets/images/products/smartphone-4-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-4-512.jpg",
+            "srcset": "../assets/images/products/smartphone-4-512.jpg, ../assets/images/products/smartphone-4-768.jpg 1.5x, ../assets/images/products/smartphone-4-1024.jpg 2x",
             "alt": "product_image"
          }
       ],
@@ -1034,7 +1034,7 @@
          "Durable materials that withstand the rigors of outdoor activities."
       ],
       "category": "Clothes / Jackets", 
-      "product_page_URL": "#", 
+      "product_page_URL": "/Mini-Commerce/product.html", 
       "categoryLink": "#", 
       "price": 129.99, 
       "discount": 0.15, 
@@ -1043,24 +1043,24 @@
       "commentsCount": 134,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/jacket-2-512.png",
-         "srcset": "/assets/images/products/jacket-2-512.png, /assets/images/products/jacket-2-768.png 1.5x, /assets/images/products/jacket-2-1024.png 2x",
+         "src": "../assets/images/products/jacket-2-512.png",
+         "srcset": "../assets/images/products/jacket-2-512.png, ../assets/images/products/jacket-2-768.png 1.5x, ../assets/images/products/jacket-2-1024.png 2x",
          "alt": "product_image",
          "attr": ""
       },
       "imgs": [
          {
-            "src": "/assets/images/products/jacket-2-512.png",
+            "src": "../assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/jacket-2-512.png",
+            "src": "../assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/jacket-2-512.png",
+            "src": "../assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          }
@@ -1111,38 +1111,38 @@
          "Rugged construction and advanced features for professional-grade performance."
       ],
       "category": "Electronics / Cameras",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 1499.99,
       "discount": 0,
-      "rating": 3.2,
+      "rating": 2.4,
       "reviewsCount": 86,
       "commentsCount": 114,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/camera-512.jpg",
-         "srcset": "/assets/images/products/camera-512.jpg, /assets/images/products/camera-768.jpg 1.5x, /assets/images/products/camera-1024.jpg 2x",
+         "src": "../assets/images/products/camera-512.jpg",
+         "srcset": "../assets/images/products/camera-512.jpg, ../assets/images/products/camera-768.jpg 1.5x, ../assets/images/products/camera-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/retro-black-camera-arrangement_13360546.htm#fromView=search&page=3&position=27&uuid=ab41e103-68ab-43a4-86ab-f7de737ab0e9'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -1185,7 +1185,7 @@
          "Receive notifications and control your music directly from your wrist."
       ],
       "category": "Electronics / smartwatches",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 149.99,
       "discount": 0.1,
@@ -1194,24 +1194,24 @@
       "commentsCount": 87,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/smartwatch-512.jpg",
-         "srcset": "/assets/images/products/smartwatch-512.jpg, /assets/images/products/smartwatch-768.jpg 1.5x, /assets/images/products/smartwatch-1024.jpg 2x",
+         "src": "../assets/images/products/smartwatch-512.jpg",
+         "srcset": "../assets/images/products/smartwatch-512.jpg, ../assets/images/products/smartwatch-768.jpg 1.5x, ../assets/images/products/smartwatch-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/new-smartwatch-balancing-with-cliff_40408155.htm#fromView=search&page=1&position=30&uuid=2b667821-7506-405f-85ac-d1df55c9d280'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "/assets/images/products/smartwatch-512.jpg",
+            "src": "../assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/smartwatch-512.jpg",
+            "src": "../assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/smartwatch-512.jpg",
+            "src": "../assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -1256,38 +1256,38 @@
         " Care Instructions": "Machine wash cold, tumble dry low"
       },
       "category": "Clothes / Jackets",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 79.99,
       "discount": 0.2,
-      "rating": 3.5,
+      "rating": 1.5,
       "reviewsCount": 86,
       "commentsCount": 32,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/denimjacket-512.jpg",
-         "srcset": "/assets/images/products/denimjacket-512.jpg, /assets/images/products/denimjacket-768.jpg 1.5x, /assets/images/products/denimjacket-1024.jpg 2x",
+         "src": "../assets/images/products/denimjacket-512.jpg",
+         "srcset": "../assets/images/products/denimjacket-512.jpg, ../assets/images/products/denimjacket-768.jpg 1.5x, ../assets/images/products/denimjacket-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/white-denim-jacket-front-view-streetwear-fashion_15850189.htm#fromView=search&page=1&position=36&uuid=9ff9f485-9314-4c63-b5f2-0cd68aa5dbb4'>Image by rawpixel.com on Freepik</a>"
       },
       "imgs": [
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -1336,7 +1336,7 @@
          "Advanced camera system for capturing stunning photos and videos."
       ],
       "category": "Electronics / Phones",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 999.99,
       "discount": 0.08,
@@ -1345,30 +1345,30 @@
       "commentsCount": 211,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/smartphone-1-512.jpg",
-         "srcset": "/assets/images/products/smartphone-1-512.jpg, /assets/images/products/smartphone-1-768.jpg 1.5x, /assets/images/products/smartphone-1-1024.jpg 2x",
+         "src": "../assets/images/products/smartphone-1-512.jpg",
+         "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a class='txt-dark' href='https://www.freepik.com/free-photo/technology-panoramic-banner-collage_138707500.htm#fromView=search&page=1&position=24&uuid=1298abb4-0a52-48f7-ba34-6b1e7daa5fbc'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "./assets/images/products/smartphone-1-512.jpg",
-            "srcset": "./assets/images/products/smartphone-1-512.jpg, ./assets/images/products/smartphone-1-768.jpg 1.5x, ./assets/images/products/smartphone-1-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-1-512.jpg",
+            "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "./assets/images/products/smartphone-2-512.jpg",
-            "srcset": "./assets/images/products/smartphone-2-512.jpg, ./assets/images/products/smartphone-2-768.jpg 1.5x, ./assets/images/products/smartphone-2-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-2-512.jpg",
+            "srcset": "../assets/images/products/smartphone-2-512.jpg, ../assets/images/products/smartphone-2-768.jpg 1.5x, ../assets/images/products/smartphone-2-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "./assets/images/products/smartphone-3-512.jpg",
-            "srcset": "./assets/images/products/smartphone-3-512.jpg, ./assets/images/products/smartphone-3-768.jpg 1.5x, ./assets/images/products/smartphone-3-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-3-512.jpg",
+            "srcset": "../assets/images/products/smartphone-3-512.jpg, ../assets/images/products/smartphone-3-768.jpg 1.5x, ../assets/images/products/smartphone-3-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "./assets/images/products/smartphone-4-512.jpg",
-            "srcset": "./assets/images/products/smartphone-4-512.jpg, ./assets/images/products/smartphone-4-768.jpg 1.5x, ./assets/images/products/smartphone-4-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-4-512.jpg",
+            "srcset": "../assets/images/products/smartphone-4-512.jpg, ../assets/images/products/smartphone-4-768.jpg 1.5x, ../assets/images/products/smartphone-4-1024.jpg 2x",
             "alt": "product_image"
          }
       ],
@@ -1419,7 +1419,7 @@
          "Durable materials that withstand the rigors of outdoor activities."
       ],
       "category": "Clothes / Jackets", 
-      "product_page_URL": "#", 
+      "product_page_URL": "/Mini-Commerce/product.html", 
       "categoryLink": "#", 
       "price": 129.99, 
       "discount": 0.15, 
@@ -1428,24 +1428,24 @@
       "commentsCount": 134,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/jacket-2-512.png",
-         "srcset": "/assets/images/products/jacket-2-512.png, /assets/images/products/jacket-2-768.png 1.5x, /assets/images/products/jacket-2-1024.png 2x",
+         "src": "../assets/images/products/jacket-2-512.png",
+         "srcset": "../assets/images/products/jacket-2-512.png, ../assets/images/products/jacket-2-768.png 1.5x, ../assets/images/products/jacket-2-1024.png 2x",
          "alt": "product_image",
          "attr": ""
       },
       "imgs": [
          {
-            "src": "/assets/images/products/jacket-2-512.png",
+            "src": "../assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/jacket-2-512.png",
+            "src": "../assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/jacket-2-512.png",
+            "src": "../assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          }
@@ -1496,38 +1496,38 @@
          "Rugged construction and advanced features for professional-grade performance."
       ],
       "category": "Electronics / Cameras",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 1499.99,
       "discount": 0,
-      "rating": 3.2,
+      "rating": 2.4,
       "reviewsCount": 86,
       "commentsCount": 114,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/camera-512.jpg",
-         "srcset": "/assets/images/products/camera-512.jpg, /assets/images/products/camera-768.jpg 1.5x, /assets/images/products/camera-1024.jpg 2x",
+         "src": "../assets/images/products/camera-512.jpg",
+         "srcset": "../assets/images/products/camera-512.jpg, ../assets/images/products/camera-768.jpg 1.5x, ../assets/images/products/camera-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/retro-black-camera-arrangement_13360546.htm#fromView=search&page=3&position=27&uuid=ab41e103-68ab-43a4-86ab-f7de737ab0e9'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -1570,7 +1570,7 @@
          "Receive notifications and control your music directly from your wrist."
       ],
       "category": "Electronics / smartwatches",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 149.99,
       "discount": 0.1,
@@ -1579,24 +1579,24 @@
       "commentsCount": 87,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/smartwatch-512.jpg",
-         "srcset": "/assets/images/products/smartwatch-512.jpg, /assets/images/products/smartwatch-768.jpg 1.5x, /assets/images/products/smartwatch-1024.jpg 2x",
+         "src": "../assets/images/products/smartwatch-512.jpg",
+         "srcset": "../assets/images/products/smartwatch-512.jpg, ../assets/images/products/smartwatch-768.jpg 1.5x, ../assets/images/products/smartwatch-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/new-smartwatch-balancing-with-cliff_40408155.htm#fromView=search&page=1&position=30&uuid=2b667821-7506-405f-85ac-d1df55c9d280'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "/assets/images/products/smartwatch-512.jpg",
+            "src": "../assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/smartwatch-512.jpg",
+            "src": "../assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/smartwatch-512.jpg",
+            "src": "../assets/images/products/smartwatch-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -1641,38 +1641,38 @@
         " Care Instructions": "Machine wash cold, tumble dry low"
       },
       "category": "Clothes / Jackets",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 79.99,
       "discount": 0.2,
-      "rating": 3.5,
+      "rating": 1.5,
       "reviewsCount": 86,
       "commentsCount": 32,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/denimjacket-512.jpg",
-         "srcset": "/assets/images/products/denimjacket-512.jpg, /assets/images/products/denimjacket-768.jpg 1.5x, /assets/images/products/denimjacket-1024.jpg 2x",
+         "src": "../assets/images/products/denimjacket-512.jpg",
+         "srcset": "../assets/images/products/denimjacket-512.jpg, ../assets/images/products/denimjacket-768.jpg 1.5x, ../assets/images/products/denimjacket-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/white-denim-jacket-front-view-streetwear-fashion_15850189.htm#fromView=search&page=1&position=36&uuid=9ff9f485-9314-4c63-b5f2-0cd68aa5dbb4'>Image by rawpixel.com on Freepik</a>"
       },
       "imgs": [
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/denimjacket-512.jpg",
+            "src": "../assets/images/products/denimjacket-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
@@ -1694,8 +1694,8 @@
       "provider": "minishop1",
       "id": "000003",
       "name": "TechGadget Pro Smartphone 2024",
-      "short_description": "Experience cutting-edge technology with the TechGadget Pro Smartphone 2024. asas",
-      "long_description": "The TechGadget Pro Smartphone 2024 redefines what a smartphone can do. Featuring a stunning OLED display, powerful processor, and advanced camera system, this smartphone delivers an unparalleled user experience. Whether you're streaming videos, playing games, or capturing photos, the TechGadget Pro Smartphone 2024 does it all with speed and precision. Plus, with its sleek and modern design, it's sure to turn heads wherever you go. HELO",
+      "short_description": "Experience cutting-edge technology with the TechGadget Pro Smartphone 2024.",
+      "long_description": "The TechGadget Pro Smartphone 2024 redefines what a smartphone can do. Featuring a stunning OLED display, powerful processor, and advanced camera system, this smartphone delivers an unparalleled user experience. Whether you're streaming videos, playing games, or capturing photos, the TechGadget Pro Smartphone 2024 does it all with speed and precision. Plus, with its sleek and modern design, it's sure to turn heads wherever you go.",
       "main_specs": {
          "RAM": "8GB",
          "Processor": "Octa-core Snapdragon processor",
@@ -1721,7 +1721,7 @@
          "Advanced camera system for capturing stunning photos and videos."
       ],
       "category": "Electronics / Phones",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 999.99,
       "discount": 0.08,
@@ -1730,30 +1730,30 @@
       "commentsCount": 211,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/smartphone-1-512.jpg",
-         "srcset": "/assets/images/products/smartphone-1-512.jpg, /assets/images/products/smartphone-1-768.jpg 1.5x, /assets/images/products/smartphone-1-1024.jpg 2x",
+         "src": "../assets/images/products/smartphone-1-512.jpg",
+         "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a class='txt-dark' href='https://www.freepik.com/free-photo/technology-panoramic-banner-collage_138707500.htm#fromView=search&page=1&position=24&uuid=1298abb4-0a52-48f7-ba34-6b1e7daa5fbc'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "./assets/images/products/smartphone-1-512.jpg",
-            "srcset": "./assets/images/products/smartphone-1-512.jpg, ./assets/images/products/smartphone-1-768.jpg 1.5x, ./assets/images/products/smartphone-1-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-1-512.jpg",
+            "srcset": "../assets/images/products/smartphone-1-512.jpg, ../assets/images/products/smartphone-1-768.jpg 1.5x, ../assets/images/products/smartphone-1-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "./assets/images/products/smartphone-2-512.jpg",
-            "srcset": "./assets/images/products/smartphone-2-512.jpg, ./assets/images/products/smartphone-2-768.jpg 1.5x, ./assets/images/products/smartphone-2-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-2-512.jpg",
+            "srcset": "../assets/images/products/smartphone-2-512.jpg, ../assets/images/products/smartphone-2-768.jpg 1.5x, ../assets/images/products/smartphone-2-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "./assets/images/products/smartphone-3-512.jpg",
-            "srcset": "./assets/images/products/smartphone-3-512.jpg, ./assets/images/products/smartphone-3-768.jpg 1.5x, ./assets/images/products/smartphone-3-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-3-512.jpg",
+            "srcset": "../assets/images/products/smartphone-3-512.jpg, ../assets/images/products/smartphone-3-768.jpg 1.5x, ../assets/images/products/smartphone-3-1024.jpg 2x",
             "alt": "product_image"
          },
          {
-            "src": "./assets/images/products/smartphone-4-512.jpg",
-            "srcset": "./assets/images/products/smartphone-4-512.jpg, ./assets/images/products/smartphone-4-768.jpg 1.5x, ./assets/images/products/smartphone-4-1024.jpg 2x",
+            "src": "../assets/images/products/smartphone-4-512.jpg",
+            "srcset": "../assets/images/products/smartphone-4-512.jpg, ../assets/images/products/smartphone-4-768.jpg 1.5x, ../assets/images/products/smartphone-4-1024.jpg 2x",
             "alt": "product_image"
          }
       ],
@@ -1804,7 +1804,7 @@
          "Durable materials that withstand the rigors of outdoor activities."
       ],
       "category": "Clothes / Jackets", 
-      "product_page_URL": "#", 
+      "product_page_URL": "/Mini-Commerce/product.html", 
       "categoryLink": "#", 
       "price": 129.99, 
       "discount": 0.15, 
@@ -1813,24 +1813,24 @@
       "commentsCount": 134,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/jacket-2-512.png",
-         "srcset": "/assets/images/products/jacket-2-512.png, /assets/images/products/jacket-2-768.png 1.5x, /assets/images/products/jacket-2-1024.png 2x",
+         "src": "../assets/images/products/jacket-2-512.png",
+         "srcset": "../assets/images/products/jacket-2-512.png, ../assets/images/products/jacket-2-768.png 1.5x, ../assets/images/products/jacket-2-1024.png 2x",
          "alt": "product_image",
          "attr": ""
       },
       "imgs": [
          {
-            "src": "/assets/images/products/jacket-2-512.png",
+            "src": "../assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/jacket-2-512.png",
+            "src": "../assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/jacket-2-512.png",
+            "src": "../assets/images/products/jacket-2-512.png",
             "srcset": "",
             "alt": "product_image"
          }
@@ -1854,7 +1854,7 @@
       "id": "000005",
       "name": "ProCapture DSLR Camera 2024",
       "short_description": "Capture life's moments in stunning detail with the ProCapture DSLR Camera 2024.",
-      "long_description": "The ProCapture DSLR Camera 2024 is designed for professional photographers and enthusiasts alike. With its high-resolution sensor, fast autofocus system, and intuitive controls, this camera allows you to capture stunning images with ease. Whether you're shooting landscapes, portraits, or action shots, the ProCapture DSLR Camera 2024 delivers exceptional results every time. Plus, with its rugged construction and advanced features, it's built to withstand the demands of professional use. ",
+      "long_description": "The ProCapture DSLR Camera 2024 is designed for professional photographers and enthusiasts alike. With its high-resolution sensor, fast autofocus system, and intuitive controls, this camera allows you to capture stunning images with ease. Whether you're shooting landscapes, portraits, or action shots, the ProCapture DSLR Camera 2024 delivers exceptional results every time. Plus, with its rugged construction and advanced features, it's built to withstand the demands of professional use.",
       "main_specs": {
          "LCD Screen": "3.2-inch tilting touchscreen LCD with 2.1 million dots",
          "Storage": "Dual memory card slots (SD/SDHC/SDXC compatible)",
@@ -1881,38 +1881,38 @@
          "Rugged construction and advanced features for professional-grade performance."
       ],
       "category": "Electronics / Cameras",
-      "product_page_URL": "#",
+      "product_page_URL": "/Mini-Commerce/product.html",
       "categoryLink": "#",
       "price": 1499.99,
       "discount": 0,
-      "rating": 3.2,
+      "rating": 2.4,
       "reviewsCount": 86,
       "commentsCount": 114,
       "comments": [],
       "cardImg": {
-         "src": "/assets/images/products/camera-512.jpg",
-         "srcset": "/assets/images/products/camera-512.jpg, /assets/images/products/camera-768.jpg 1.5x, /assets/images/products/camera-1024.jpg 2x",
+         "src": "../assets/images/products/camera-512.jpg",
+         "srcset": "../assets/images/products/camera-512.jpg, ../assets/images/products/camera-768.jpg 1.5x, ../assets/images/products/camera-1024.jpg 2x",
          "alt": "product_image",
          "attr": "<a href='https://www.freepik.com/free-photo/retro-black-camera-arrangement_13360546.htm#fromView=search&page=3&position=27&uuid=ab41e103-68ab-43a4-86ab-f7de737ab0e9'>Image by freepik</a>"
       },
       "imgs": [
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          },
          {
-            "src": "/assets/images/products/camera-512.jpg",
+            "src": "../assets/images/products/camera-512.jpg",
             "srcset": "",
             "alt": "product_image"
          }
