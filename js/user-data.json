@@ -2,7 +2,7 @@
    {
       "id": "000001",
       "username": "parsa0x0",
-      "avatar": "https://loremflickr.com/80/80",
+      "avatar": "https://placehold.co/60x60/png",
       "cart": [
          {
             "product": {"name": "smartphone", "price": 1500, "discount": 0.2},
